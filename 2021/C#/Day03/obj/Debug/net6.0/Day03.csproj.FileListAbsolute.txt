@@ -1,0 +1,15 @@
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\bin\Debug\net6.0\Day03.exe
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\bin\Debug\net6.0\Day03.deps.json
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\bin\Debug\net6.0\Day03.runtimeconfig.json
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\bin\Debug\net6.0\Day03.dll
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\bin\Debug\net6.0\ref\Day03.dll
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\bin\Debug\net6.0\Day03.pdb
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.dll
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\ref\Day03.dll
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.pdb
+C:\Users\Martin\Desktop\Projects\AdventOfCode\2021\C#\Day03\obj\Debug\net6.0\Day03.genruntimeconfig.cache

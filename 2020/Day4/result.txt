@@ -1,0 +1,4761 @@
+EOF reached!
+eyr:2029 byr:1931 hcl:z cid:128 ecl:amb hgt:150cm iyr:2015 pid:148714704 
+token: eyr:2029
+	field: eyr
+token: byr:1931
+	field: byr
+token: hcl:z
+	field: hcl
+token: cid:128
+	field: cid
+token: ecl:amb
+	field: ecl
+token: hgt:150cm
+	field: hgt
+token: iyr:2015
+	field: iyr
+token: pid:148714704
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2013 hgt:70cm pid:76982670 ecl:#4f9a1c hcl:9e724b eyr:1981 iyr:2027 
+token: byr:2013
+	field: byr
+token: hgt:70cm
+	field: hgt
+token: pid:76982670
+	field: pid
+token: ecl:#4f9a1c
+	field: ecl
+token: hcl:9e724b
+	field: hcl
+token: eyr:1981
+	field: eyr
+token: iyr:2027
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:261384974 iyr:2015 hgt:172cm eyr:2020 byr:2001 hcl:#59c2d9 ecl:amb cid:163 
+token: pid:261384974
+	field: pid
+token: iyr:2015
+	field: iyr
+token: hgt:172cm
+	field: hgt
+token: eyr:2020
+	field: eyr
+token: byr:2001
+	field: byr
+token: hcl:#59c2d9
+	field: hcl
+token: ecl:amb
+	field: ecl
+token: cid:163
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2024 hcl:#b6652a cid:340 byr:1929 ecl:oth iyr:2014 pid:186640193 hgt:193in 
+token: eyr:2024
+	field: eyr
+token: hcl:#b6652a
+	field: hcl
+token: cid:340
+	field: cid
+token: byr:1929
+	field: byr
+token: ecl:oth
+	field: ecl
+token: iyr:2014
+	field: iyr
+token: pid:186640193
+	field: pid
+token: hgt:193in
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2015 eyr:2024 hgt:184cm ecl:blu hcl:#a97842 byr:1959 pid:932817398 
+token: iyr:2015
+	field: iyr
+token: eyr:2024
+	field: eyr
+token: hgt:184cm
+	field: hgt
+token: ecl:blu
+	field: ecl
+token: hcl:#a97842
+	field: hcl
+token: byr:1959
+	field: byr
+token: pid:932817398
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:1933 hcl:7c63aa cid:72 eyr:2028 ecl:hzl byr:2009 hgt:164cm pid:104496116 
+token: iyr:1933
+	field: iyr
+token: hcl:7c63aa
+	field: hcl
+token: cid:72
+	field: cid
+token: eyr:2028
+	field: eyr
+token: ecl:hzl
+	field: ecl
+token: byr:2009
+	field: byr
+token: hgt:164cm
+	field: hgt
+token: pid:104496116
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1980 hgt:181cm pid:192793676 hcl:8f6ae6 iyr:2021 eyr:1978 
+token: byr:1980
+	field: byr
+token: hgt:181cm
+	field: hgt
+token: pid:192793676
+	field: pid
+token: hcl:8f6ae6
+	field: hcl
+token: iyr:2021
+	field: iyr
+token: eyr:1978
+	field: eyr
+[1, 1, 1, 1, 1, 0, 1, 0]
+pid:#63f479 hgt:75cm hcl:z iyr:1956 byr:2024 ecl:#051344 
+token: pid:#63f479
+	field: pid
+token: hgt:75cm
+	field: hgt
+token: hcl:z
+	field: hcl
+token: iyr:1956
+	field: iyr
+token: byr:2024
+	field: byr
+token: ecl:#051344
+	field: ecl
+[1, 1, 0, 1, 1, 1, 1, 0]
+byr:2014 pid:159cm hgt:161cm ecl:#b4eef2 iyr:2027 eyr:1933 hcl:743b1a 
+token: byr:2014
+	field: byr
+token: pid:159cm
+	field: pid
+token: hgt:161cm
+	field: hgt
+token: ecl:#b4eef2
+	field: ecl
+token: iyr:2027
+	field: iyr
+token: eyr:1933
+	field: eyr
+token: hcl:743b1a
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:79 hgt:172cm byr:1932 eyr:2020 pid:127319843 hcl:#6b5442 iyr:2017 ecl:brn 
+token: cid:79
+	field: cid
+token: hgt:172cm
+	field: hgt
+token: byr:1932
+	field: byr
+token: eyr:2020
+	field: eyr
+token: pid:127319843
+	field: pid
+token: hcl:#6b5442
+	field: hcl
+token: iyr:2017
+	field: iyr
+token: ecl:brn
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:gry eyr:2020 byr:1976 pid:093137171 iyr:2012 hgt:178cm hcl:#733820 
+token: ecl:gry
+	field: ecl
+token: eyr:2020
+	field: eyr
+token: byr:1976
+	field: byr
+token: pid:093137171
+	field: pid
+token: iyr:2012
+	field: iyr
+token: hgt:178cm
+	field: hgt
+token: hcl:#733820
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1933 hcl:#733820 hgt:165cm eyr:2027 iyr:2018 ecl:oth pid:0952910465 
+token: byr:1933
+	field: byr
+token: hcl:#733820
+	field: hcl
+token: hgt:165cm
+	field: hgt
+token: eyr:2027
+	field: eyr
+token: iyr:2018
+	field: iyr
+token: ecl:oth
+	field: ecl
+token: pid:0952910465
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2014 byr:1965 pid:304542033 eyr:2032 ecl:brn hgt:153in cid:259 hcl:z 
+token: iyr:2014
+	field: iyr
+token: byr:1965
+	field: byr
+token: pid:304542033
+	field: pid
+token: eyr:2032
+	field: eyr
+token: ecl:brn
+	field: ecl
+token: hgt:153in
+	field: hgt
+token: cid:259
+	field: cid
+token: hcl:z
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2004 ecl:amb iyr:2013 hcl:#a97842 hgt:68in pid:248926471 eyr:1930 
+token: byr:2004
+	field: byr
+token: ecl:amb
+	field: ecl
+token: iyr:2013
+	field: iyr
+token: hcl:#a97842
+	field: hcl
+token: hgt:68in
+	field: hgt
+token: pid:248926471
+	field: pid
+token: eyr:1930
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:048596900 iyr:2021 byr:2021 eyr:2021 cid:104 hcl:c3c9e0 ecl:hzl hgt:75cm 
+token: pid:048596900
+	field: pid
+token: iyr:2021
+	field: iyr
+token: byr:2021
+	field: byr
+token: eyr:2021
+	field: eyr
+token: cid:104
+	field: cid
+token: hcl:c3c9e0
+	field: hcl
+token: ecl:hzl
+	field: ecl
+token: hgt:75cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:590195280 cid:159 byr:1951 hcl:#ceb3a1 ecl:brn iyr:2012 hgt:189cm eyr:2024 
+token: pid:590195280
+	field: pid
+token: cid:159
+	field: cid
+token: byr:1951
+	field: byr
+token: hcl:#ceb3a1
+	field: hcl
+token: ecl:brn
+	field: ecl
+token: iyr:2012
+	field: iyr
+token: hgt:189cm
+	field: hgt
+token: eyr:2024
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2015 pid:639647361 hcl:#b6652a hgt:151cm byr:1957 cid:284 ecl:gry eyr:2026 
+token: iyr:2015
+	field: iyr
+token: pid:639647361
+	field: pid
+token: hcl:#b6652a
+	field: hcl
+token: hgt:151cm
+	field: hgt
+token: byr:1957
+	field: byr
+token: cid:284
+	field: cid
+token: ecl:gry
+	field: ecl
+token: eyr:2026
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:blu hgt:175cm pid:462959720 hcl:#602927 iyr:2014 byr:1972 eyr:2023 
+token: ecl:blu
+	field: ecl
+token: hgt:175cm
+	field: hgt
+token: pid:462959720
+	field: pid
+token: hcl:#602927
+	field: hcl
+token: iyr:2014
+	field: iyr
+token: byr:1972
+	field: byr
+token: eyr:2023
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:blu eyr:2023 hgt:175cm pid:090406335 hcl:#b6652a iyr:2012 byr:1921 
+token: ecl:blu
+	field: ecl
+token: eyr:2023
+	field: eyr
+token: hgt:175cm
+	field: hgt
+token: pid:090406335
+	field: pid
+token: hcl:#b6652a
+	field: hcl
+token: iyr:2012
+	field: iyr
+token: byr:1921
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2025 hcl:#733820 pid:775468504 ecl:hzl byr:1934 hgt:187cm iyr:2019 
+token: eyr:2025
+	field: eyr
+token: hcl:#733820
+	field: hcl
+token: pid:775468504
+	field: pid
+token: ecl:hzl
+	field: ecl
+token: byr:1934
+	field: byr
+token: hgt:187cm
+	field: hgt
+token: iyr:2019
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:#b35d5b hgt:121 hcl:z iyr:2002 eyr:2034 byr:2014 
+token: ecl:#b35d5b
+	field: ecl
+token: hgt:121
+	field: hgt
+token: hcl:z
+	field: hcl
+token: iyr:2002
+	field: iyr
+token: eyr:2034
+	field: eyr
+token: byr:2014
+	field: byr
+[1, 1, 1, 1, 1, 1, 0, 0]
+ecl:hzl byr:2026 hgt:77 iyr:1952 hcl:#a97842 pid:#1461ed eyr:1921 
+token: ecl:hzl
+	field: ecl
+token: byr:2026
+	field: byr
+token: hgt:77
+	field: hgt
+token: iyr:1952
+	field: iyr
+token: hcl:#a97842
+	field: hcl
+token: pid:#1461ed
+	field: pid
+token: eyr:1921
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2019 hgt:171in eyr:2040 pid:788162609 ecl:grn byr:2023 
+token: iyr:2019
+	field: iyr
+token: hgt:171in
+	field: hgt
+token: eyr:2040
+	field: eyr
+token: pid:788162609
+	field: pid
+token: ecl:grn
+	field: ecl
+token: byr:2023
+	field: byr
+[1, 1, 1, 1, 0, 1, 1, 0]
+hcl:#efcc98 eyr:2039 hgt:158cm byr:2026 pid:216112069 
+token: hcl:#efcc98
+	field: hcl
+token: eyr:2039
+	field: eyr
+token: hgt:158cm
+	field: hgt
+token: byr:2026
+	field: byr
+token: pid:216112069
+	field: pid
+[1, 0, 1, 1, 1, 0, 1, 0]
+ecl:blu hcl:#fffffd eyr:2020 pid:496018604 byr:1982 hgt:168cm cid:70 iyr:2016 
+token: ecl:blu
+	field: ecl
+token: hcl:#fffffd
+	field: hcl
+token: eyr:2020
+	field: eyr
+token: pid:496018604
+	field: pid
+token: byr:1982
+	field: byr
+token: hgt:168cm
+	field: hgt
+token: cid:70
+	field: cid
+token: iyr:2016
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2031 iyr:1958 hcl:#c0946f hgt:181in ecl:#f88f2c pid:7896132641 
+token: eyr:2031
+	field: eyr
+token: iyr:1958
+	field: iyr
+token: hcl:#c0946f
+	field: hcl
+token: hgt:181in
+	field: hgt
+token: ecl:#f88f2c
+	field: ecl
+token: pid:7896132641
+	field: pid
+[0, 1, 1, 1, 1, 1, 1, 0]
+byr:1933 cid:118 eyr:2037 hcl:#cfa07d iyr:2030 ecl:#686f76 hgt:170 
+token: byr:1933
+	field: byr
+token: cid:118
+	field: cid
+token: eyr:2037
+	field: eyr
+token: hcl:#cfa07d
+	field: hcl
+token: iyr:2030
+	field: iyr
+token: ecl:#686f76
+	field: ecl
+token: hgt:170
+	field: hgt
+[1, 1, 1, 1, 1, 1, 0, 1]
+iyr:2010 hgt:161cm ecl:grn byr:1958 hcl:#7d3b0c pid:523557068 
+token: iyr:2010
+	field: iyr
+token: hgt:161cm
+	field: hgt
+token: ecl:grn
+	field: ecl
+token: byr:1958
+	field: byr
+token: hcl:#7d3b0c
+	field: hcl
+token: pid:523557068
+	field: pid
+[1, 1, 0, 1, 1, 1, 1, 0]
+hcl:ba3af2 pid:157cm eyr:2037 cid:135 ecl:zzz hgt:153 byr:2030 
+token: hcl:ba3af2
+	field: hcl
+token: pid:157cm
+	field: pid
+token: eyr:2037
+	field: eyr
+token: cid:135
+	field: cid
+token: ecl:zzz
+	field: ecl
+token: hgt:153
+	field: hgt
+token: byr:2030
+	field: byr
+[1, 0, 1, 1, 1, 1, 1, 1]
+ecl:grn byr:1967 cid:191 iyr:2012 hcl:#866857 pid:822899368 hgt:152cm eyr:2024 
+token: ecl:grn
+	field: ecl
+token: byr:1967
+	field: byr
+token: cid:191
+	field: cid
+token: iyr:2012
+	field: iyr
+token: hcl:#866857
+	field: hcl
+token: pid:822899368
+	field: pid
+token: hgt:152cm
+	field: hgt
+token: eyr:2024
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2015 cid:343 hcl:#6b5442 pid:119981062 hgt:67in eyr:2027 ecl:gry byr:2001 
+token: iyr:2015
+	field: iyr
+token: cid:343
+	field: cid
+token: hcl:#6b5442
+	field: hcl
+token: pid:119981062
+	field: pid
+token: hgt:67in
+	field: hgt
+token: eyr:2027
+	field: eyr
+token: ecl:gry
+	field: ecl
+token: byr:2001
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:#c68245 ecl:blu hgt:107 hcl:74f3fb eyr:1996 iyr:1955 byr:2025 
+token: pid:#c68245
+	field: pid
+token: ecl:blu
+	field: ecl
+token: hgt:107
+	field: hgt
+token: hcl:74f3fb
+	field: hcl
+token: eyr:1996
+	field: eyr
+token: iyr:1955
+	field: iyr
+token: byr:2025
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:63cm eyr:1925 iyr:2019 byr:2013 pid:#3ab227 ecl:#e33d1d hcl:#efcc98 
+token: hgt:63cm
+	field: hgt
+token: eyr:1925
+	field: eyr
+token: iyr:2019
+	field: iyr
+token: byr:2013
+	field: byr
+token: pid:#3ab227
+	field: pid
+token: ecl:#e33d1d
+	field: ecl
+token: hcl:#efcc98
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1941 eyr:2029 iyr:2011 hgt:159cm hcl:#602927 ecl:brn cid:245 pid:977877701 
+token: byr:1941
+	field: byr
+token: eyr:2029
+	field: eyr
+token: iyr:2011
+	field: iyr
+token: hgt:159cm
+	field: hgt
+token: hcl:#602927
+	field: hcl
+token: ecl:brn
+	field: ecl
+token: cid:245
+	field: cid
+token: pid:977877701
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:575539099 eyr:2031 byr:1987 ecl:oth hcl:#cfa07d iyr:2017 hgt:69cm 
+token: pid:575539099
+	field: pid
+token: eyr:2031
+	field: eyr
+token: byr:1987
+	field: byr
+token: ecl:oth
+	field: ecl
+token: hcl:#cfa07d
+	field: hcl
+token: iyr:2017
+	field: iyr
+token: hgt:69cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:563180951 hgt:153cm ecl:amb iyr:2016 byr:1951 hcl:#341e13 eyr:2029 cid:277 
+token: pid:563180951
+	field: pid
+token: hgt:153cm
+	field: hgt
+token: ecl:amb
+	field: ecl
+token: iyr:2016
+	field: iyr
+token: byr:1951
+	field: byr
+token: hcl:#341e13
+	field: hcl
+token: eyr:2029
+	field: eyr
+token: cid:277
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#623a2f iyr:2011 hgt:171cm byr:1929 ecl:oth eyr:2024 pid:959212059 
+token: hcl:#623a2f
+	field: hcl
+token: iyr:2011
+	field: iyr
+token: hgt:171cm
+	field: hgt
+token: byr:1929
+	field: byr
+token: ecl:oth
+	field: ecl
+token: eyr:2024
+	field: eyr
+token: pid:959212059
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1943 ecl:#3925f3 hgt:68cm pid:155cm cid:127 eyr:2011 hcl:2a53fd iyr:2030 
+token: byr:1943
+	field: byr
+token: ecl:#3925f3
+	field: ecl
+token: hgt:68cm
+	field: hgt
+token: pid:155cm
+	field: pid
+token: cid:127
+	field: cid
+token: eyr:2011
+	field: eyr
+token: hcl:2a53fd
+	field: hcl
+token: iyr:2030
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:160in byr:2014 pid:7846412647 hcl:2d18c8 ecl:#8655df eyr:2034 iyr:2023 
+token: hgt:160in
+	field: hgt
+token: byr:2014
+	field: byr
+token: pid:7846412647
+	field: pid
+token: hcl:2d18c8
+	field: hcl
+token: ecl:#8655df
+	field: ecl
+token: eyr:2034
+	field: eyr
+token: iyr:2023
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1932 hgt:170cm cid:331 eyr:2020 pid:52551410 ecl:gry iyr:2013 hcl:#c6944c 
+token: byr:1932
+	field: byr
+token: hgt:170cm
+	field: hgt
+token: cid:331
+	field: cid
+token: eyr:2020
+	field: eyr
+token: pid:52551410
+	field: pid
+token: ecl:gry
+	field: ecl
+token: iyr:2013
+	field: iyr
+token: hcl:#c6944c
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#888785 pid:177cm ecl:oth hgt:160cm eyr:2021 byr:1957 iyr:2013 
+token: hcl:#888785
+	field: hcl
+token: pid:177cm
+	field: pid
+token: ecl:oth
+	field: ecl
+token: hgt:160cm
+	field: hgt
+token: eyr:2021
+	field: eyr
+token: byr:1957
+	field: byr
+token: iyr:2013
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2020 pid:6245137 eyr:2027 cid:111 hgt:181cm byr:2024 ecl:gmt hcl:fe8828 
+token: iyr:2020
+	field: iyr
+token: pid:6245137
+	field: pid
+token: eyr:2027
+	field: eyr
+token: cid:111
+	field: cid
+token: hgt:181cm
+	field: hgt
+token: byr:2024
+	field: byr
+token: ecl:gmt
+	field: ecl
+token: hcl:fe8828
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:648300488 cid:230 hcl:#efcc98 byr:1989 hgt:159cm ecl:gry iyr:2015 eyr:2030 
+token: pid:648300488
+	field: pid
+token: cid:230
+	field: cid
+token: hcl:#efcc98
+	field: hcl
+token: byr:1989
+	field: byr
+token: hgt:159cm
+	field: hgt
+token: ecl:gry
+	field: ecl
+token: iyr:2015
+	field: iyr
+token: eyr:2030
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:1929 cid:144 hgt:168in pid:185cm byr:2017 hcl:z eyr:1960 ecl:#d406d2 
+token: iyr:1929
+	field: iyr
+token: cid:144
+	field: cid
+token: hgt:168in
+	field: hgt
+token: pid:185cm
+	field: pid
+token: byr:2017
+	field: byr
+token: hcl:z
+	field: hcl
+token: eyr:1960
+	field: eyr
+token: ecl:#d406d2
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:3a4933 hgt:155cm pid:337576945 byr:1925 iyr:2014 ecl:brn eyr:2026 
+token: hcl:3a4933
+	field: hcl
+token: hgt:155cm
+	field: hgt
+token: pid:337576945
+	field: pid
+token: byr:1925
+	field: byr
+token: iyr:2014
+	field: iyr
+token: ecl:brn
+	field: ecl
+token: eyr:2026
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:170cm cid:291 eyr:2017 iyr:2017 hgt:177cm hcl:z ecl:gmt 
+token: pid:170cm
+	field: pid
+token: cid:291
+	field: cid
+token: eyr:2017
+	field: eyr
+token: iyr:2017
+	field: iyr
+token: hgt:177cm
+	field: hgt
+token: hcl:z
+	field: hcl
+token: ecl:gmt
+	field: ecl
+[0, 1, 1, 1, 1, 1, 1, 1]
+pid:271148544 hgt:163cm byr:1926 hcl:#fffffd iyr:2013 eyr:2022 
+token: pid:271148544
+	field: pid
+token: hgt:163cm
+	field: hgt
+token: byr:1926
+	field: byr
+token: hcl:#fffffd
+	field: hcl
+token: iyr:2013
+	field: iyr
+token: eyr:2022
+	field: eyr
+[1, 1, 1, 1, 1, 0, 1, 0]
+hgt:64in iyr:2030 ecl:#15c6b5 eyr:2028 byr:2025 pid:3426144 
+token: hgt:64in
+	field: hgt
+token: iyr:2030
+	field: iyr
+token: ecl:#15c6b5
+	field: ecl
+token: eyr:2028
+	field: eyr
+token: byr:2025
+	field: byr
+token: pid:3426144
+	field: pid
+[1, 1, 1, 1, 0, 1, 1, 0]
+eyr:1923 byr:1943 hcl:#64d609 iyr:2017 pid:154cm hgt:160cm ecl:brn 
+token: eyr:1923
+	field: eyr
+token: byr:1943
+	field: byr
+token: hcl:#64d609
+	field: hcl
+token: iyr:2017
+	field: iyr
+token: pid:154cm
+	field: pid
+token: hgt:160cm
+	field: hgt
+token: ecl:brn
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#602927 hgt:170cm ecl:utc iyr:1954 pid:370180054 byr:1925 cid:162 eyr:1983 
+token: hcl:#602927
+	field: hcl
+token: hgt:170cm
+	field: hgt
+token: ecl:utc
+	field: ecl
+token: iyr:1954
+	field: iyr
+token: pid:370180054
+	field: pid
+token: byr:1925
+	field: byr
+token: cid:162
+	field: cid
+token: eyr:1983
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#888785 byr:1932 hgt:163cm eyr:2026 ecl:grn pid:799844918 
+token: hcl:#888785
+	field: hcl
+token: byr:1932
+	field: byr
+token: hgt:163cm
+	field: hgt
+token: eyr:2026
+	field: eyr
+token: ecl:grn
+	field: ecl
+token: pid:799844918
+	field: pid
+[1, 0, 1, 1, 1, 1, 1, 0]
+eyr:2029 ecl:blu cid:231 hgt:157cm pid:609233861 hcl:#462640 byr:1940 iyr:2012 
+token: eyr:2029
+	field: eyr
+token: ecl:blu
+	field: ecl
+token: cid:231
+	field: cid
+token: hgt:157cm
+	field: hgt
+token: pid:609233861
+	field: pid
+token: hcl:#462640
+	field: hcl
+token: byr:1940
+	field: byr
+token: iyr:2012
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2025 byr:2004 pid:#e92a77 eyr:2014 cid:78 ecl:zzz hgt:187in hcl:76be6e 
+token: iyr:2025
+	field: iyr
+token: byr:2004
+	field: byr
+token: pid:#e92a77
+	field: pid
+token: eyr:2014
+	field: eyr
+token: cid:78
+	field: cid
+token: ecl:zzz
+	field: ecl
+token: hgt:187in
+	field: hgt
+token: hcl:76be6e
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2027 iyr:2012 ecl:brn byr:1955 pid:128923308 cid:313 hgt:156cm hcl:#623a2f 
+token: eyr:2027
+	field: eyr
+token: iyr:2012
+	field: iyr
+token: ecl:brn
+	field: ecl
+token: byr:1955
+	field: byr
+token: pid:128923308
+	field: pid
+token: cid:313
+	field: cid
+token: hgt:156cm
+	field: hgt
+token: hcl:#623a2f
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#ceb3a1 hgt:178cm byr:1984 pid:121442385 eyr:2036 iyr:2014 ecl:hzl 
+token: hcl:#ceb3a1
+	field: hcl
+token: hgt:178cm
+	field: hgt
+token: byr:1984
+	field: byr
+token: pid:121442385
+	field: pid
+token: eyr:2036
+	field: eyr
+token: iyr:2014
+	field: iyr
+token: ecl:hzl
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2038 ecl:#c6149f iyr:1983 cid:304 hgt:193 byr:2019 hcl:z pid:5871630079 
+token: eyr:2038
+	field: eyr
+token: ecl:#c6149f
+	field: ecl
+token: iyr:1983
+	field: iyr
+token: cid:304
+	field: cid
+token: hgt:193
+	field: hgt
+token: byr:2019
+	field: byr
+token: hcl:z
+	field: hcl
+token: pid:5871630079
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2028 eyr:2002 hgt:146 hcl:#623a2f pid:390145814 byr:1937 
+token: iyr:2028
+	field: iyr
+token: eyr:2002
+	field: eyr
+token: hgt:146
+	field: hgt
+token: hcl:#623a2f
+	field: hcl
+token: pid:390145814
+	field: pid
+token: byr:1937
+	field: byr
+[1, 1, 1, 1, 1, 0, 1, 0]
+pid:923652966 ecl:amb eyr:2027 hgt:174cm byr:1932 iyr:2014 hcl:#fffffd 
+token: pid:923652966
+	field: pid
+token: ecl:amb
+	field: ecl
+token: eyr:2027
+	field: eyr
+token: hgt:174cm
+	field: hgt
+token: byr:1932
+	field: byr
+token: iyr:2014
+	field: iyr
+token: hcl:#fffffd
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2026 cid:202 byr:1995 hcl:69c01a hgt:164cm eyr:2020 ecl:hzl 
+token: iyr:2026
+	field: iyr
+token: cid:202
+	field: cid
+token: byr:1995
+	field: byr
+token: hcl:69c01a
+	field: hcl
+token: hgt:164cm
+	field: hgt
+token: eyr:2020
+	field: eyr
+token: ecl:hzl
+	field: ecl
+[1, 1, 1, 1, 1, 1, 0, 1]
+hgt:156cm byr:2004 pid:537532371 hcl:z iyr:1988 eyr:2024 ecl:utc 
+token: hgt:156cm
+	field: hgt
+token: byr:2004
+	field: byr
+token: pid:537532371
+	field: pid
+token: hcl:z
+	field: hcl
+token: iyr:1988
+	field: iyr
+token: eyr:2024
+	field: eyr
+token: ecl:utc
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2018 byr:1924 hcl:#602927 cid:132 pid:947815343 eyr:2030 ecl:grn 
+token: iyr:2018
+	field: iyr
+token: byr:1924
+	field: byr
+token: hcl:#602927
+	field: hcl
+token: cid:132
+	field: cid
+token: pid:947815343
+	field: pid
+token: eyr:2030
+	field: eyr
+token: ecl:grn
+	field: ecl
+[1, 1, 1, 0, 1, 1, 1, 1]
+byr:1978 hcl:#c0946f iyr:2012 hgt:67cm eyr:2032 pid:929470763 ecl:amb 
+token: byr:1978
+	field: byr
+token: hcl:#c0946f
+	field: hcl
+token: iyr:2012
+	field: iyr
+token: hgt:67cm
+	field: hgt
+token: eyr:2032
+	field: eyr
+token: pid:929470763
+	field: pid
+token: ecl:amb
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2028 pid:545502229 ecl:gry hcl:#866857 hgt:182cm byr:1964 iyr:2016 
+token: eyr:2028
+	field: eyr
+token: pid:545502229
+	field: pid
+token: ecl:gry
+	field: ecl
+token: hcl:#866857
+	field: hcl
+token: hgt:182cm
+	field: hgt
+token: byr:1964
+	field: byr
+token: iyr:2016
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:z cid:82 hgt:108 byr:2010 pid:#1650b3 eyr:2020 iyr:2017 ecl:hzl 
+token: hcl:z
+	field: hcl
+token: cid:82
+	field: cid
+token: hgt:108
+	field: hgt
+token: byr:2010
+	field: byr
+token: pid:#1650b3
+	field: pid
+token: eyr:2020
+	field: eyr
+token: iyr:2017
+	field: iyr
+token: ecl:hzl
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2018 hgt:61cm ecl:lzr byr:1980 hcl:1d4bc2 cid:306 pid:763925614 eyr:2006 
+token: iyr:2018
+	field: iyr
+token: hgt:61cm
+	field: hgt
+token: ecl:lzr
+	field: ecl
+token: byr:1980
+	field: byr
+token: hcl:1d4bc2
+	field: hcl
+token: cid:306
+	field: cid
+token: pid:763925614
+	field: pid
+token: eyr:2006
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2021 eyr:2029 pid:610596568 ecl:oth hcl:#7d3b0c iyr:2010 cid:83 hgt:156cm 
+token: byr:2021
+	field: byr
+token: eyr:2029
+	field: eyr
+token: pid:610596568
+	field: pid
+token: ecl:oth
+	field: ecl
+token: hcl:#7d3b0c
+	field: hcl
+token: iyr:2010
+	field: iyr
+token: cid:83
+	field: cid
+token: hgt:156cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:181 ecl:hzl hcl:#8d79d2 hgt:192cm byr:1958 iyr:2014 eyr:2026 pid:118367138 
+token: cid:181
+	field: cid
+token: ecl:hzl
+	field: ecl
+token: hcl:#8d79d2
+	field: hcl
+token: hgt:192cm
+	field: hgt
+token: byr:1958
+	field: byr
+token: iyr:2014
+	field: iyr
+token: eyr:2026
+	field: eyr
+token: pid:118367138
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1978 eyr:2020 iyr:2025 hgt:176cm ecl:grn hcl:faedc2 
+token: byr:1978
+	field: byr
+token: eyr:2020
+	field: eyr
+token: iyr:2025
+	field: iyr
+token: hgt:176cm
+	field: hgt
+token: ecl:grn
+	field: ecl
+token: hcl:faedc2
+	field: hcl
+[1, 1, 1, 1, 1, 1, 0, 0]
+hgt:156cm eyr:1989 pid:#7acc45 cid:235 hcl:1332ba ecl:#2b7525 iyr:1950 byr:1943 
+token: hgt:156cm
+	field: hgt
+token: eyr:1989
+	field: eyr
+token: pid:#7acc45
+	field: pid
+token: cid:235
+	field: cid
+token: hcl:1332ba
+	field: hcl
+token: ecl:#2b7525
+	field: ecl
+token: iyr:1950
+	field: iyr
+token: byr:1943
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:147647267 hcl:#341e13 ecl:hzl iyr:2019 byr:1975 hgt:153cm eyr:2020 
+token: pid:147647267
+	field: pid
+token: hcl:#341e13
+	field: hcl
+token: ecl:hzl
+	field: ecl
+token: iyr:2019
+	field: iyr
+token: byr:1975
+	field: byr
+token: hgt:153cm
+	field: hgt
+token: eyr:2020
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2026 hgt:170cm ecl:oth byr:2017 pid:047129729 eyr:2024 hcl:#733820 
+token: iyr:2026
+	field: iyr
+token: hgt:170cm
+	field: hgt
+token: ecl:oth
+	field: ecl
+token: byr:2017
+	field: byr
+token: pid:047129729
+	field: pid
+token: eyr:2024
+	field: eyr
+token: hcl:#733820
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#fffffd byr:1960 ecl:gry eyr:2023 iyr:2013 hgt:186cm pid:145757697 
+token: hcl:#fffffd
+	field: hcl
+token: byr:1960
+	field: byr
+token: ecl:gry
+	field: ecl
+token: eyr:2023
+	field: eyr
+token: iyr:2013
+	field: iyr
+token: hgt:186cm
+	field: hgt
+token: pid:145757697
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:64in ecl:amb byr:1930 pid:808797855 iyr:2019 hcl:#b6652a eyr:2022 
+token: hgt:64in
+	field: hgt
+token: ecl:amb
+	field: ecl
+token: byr:1930
+	field: byr
+token: pid:808797855
+	field: pid
+token: iyr:2019
+	field: iyr
+token: hcl:#b6652a
+	field: hcl
+token: eyr:2022
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2030 hcl:z iyr:2013 hgt:165cm ecl:#5ba775 pid:168306092 byr:1988 
+token: eyr:2030
+	field: eyr
+token: hcl:z
+	field: hcl
+token: iyr:2013
+	field: iyr
+token: hgt:165cm
+	field: hgt
+token: ecl:#5ba775
+	field: ecl
+token: pid:168306092
+	field: pid
+token: byr:1988
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2026 ecl:gry iyr:2020 hcl:#b6652a hgt:177cm byr:1991 pid:780666689 
+token: eyr:2026
+	field: eyr
+token: ecl:gry
+	field: ecl
+token: iyr:2020
+	field: iyr
+token: hcl:#b6652a
+	field: hcl
+token: hgt:177cm
+	field: hgt
+token: byr:1991
+	field: byr
+token: pid:780666689
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2020 pid:#d08e64 eyr:2010 hcl:411b04 cid:140 hgt:76cm ecl:grn byr:2005 
+token: iyr:2020
+	field: iyr
+token: pid:#d08e64
+	field: pid
+token: eyr:2010
+	field: eyr
+token: hcl:411b04
+	field: hcl
+token: cid:140
+	field: cid
+token: hgt:76cm
+	field: hgt
+token: ecl:grn
+	field: ecl
+token: byr:2005
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:1945 pid:973836167 ecl:zzz hcl:z hgt:181in byr:2008 eyr:1993 
+token: iyr:1945
+	field: iyr
+token: pid:973836167
+	field: pid
+token: ecl:zzz
+	field: ecl
+token: hcl:z
+	field: hcl
+token: hgt:181in
+	field: hgt
+token: byr:2008
+	field: byr
+token: eyr:1993
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:58 eyr:2024 hgt:159cm byr:1977 ecl:hzl pid:402427328 hcl:#888785 iyr:2012 
+token: cid:58
+	field: cid
+token: eyr:2024
+	field: eyr
+token: hgt:159cm
+	field: hgt
+token: byr:1977
+	field: byr
+token: ecl:hzl
+	field: ecl
+token: pid:402427328
+	field: pid
+token: hcl:#888785
+	field: hcl
+token: iyr:2012
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:533381616 byr:2027 eyr:2040 hgt:60cm iyr:2023 hcl:z ecl:gmt 
+token: pid:533381616
+	field: pid
+token: byr:2027
+	field: byr
+token: eyr:2040
+	field: eyr
+token: hgt:60cm
+	field: hgt
+token: iyr:2023
+	field: iyr
+token: hcl:z
+	field: hcl
+token: ecl:gmt
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:229044973 cid:149 hgt:178in eyr:2029 byr:2006 ecl:dne iyr:2012 hcl:bf4bc2 
+token: pid:229044973
+	field: pid
+token: cid:149
+	field: cid
+token: hgt:178in
+	field: hgt
+token: eyr:2029
+	field: eyr
+token: byr:2006
+	field: byr
+token: ecl:dne
+	field: ecl
+token: iyr:2012
+	field: iyr
+token: hcl:bf4bc2
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:161cm byr:1973 ecl:oth iyr:2015 hcl:#341e13 pid:658452720 eyr:2024 
+token: hgt:161cm
+	field: hgt
+token: byr:1973
+	field: byr
+token: ecl:oth
+	field: ecl
+token: iyr:2015
+	field: iyr
+token: hcl:#341e13
+	field: hcl
+token: pid:658452720
+	field: pid
+token: eyr:2024
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#efcc98 hgt:156cm byr:1931 iyr:1997 pid:0548175409 ecl:utc 
+token: hcl:#efcc98
+	field: hcl
+token: hgt:156cm
+	field: hgt
+token: byr:1931
+	field: byr
+token: iyr:1997
+	field: iyr
+token: pid:0548175409
+	field: pid
+token: ecl:utc
+	field: ecl
+[1, 1, 0, 1, 1, 1, 1, 0]
+pid:575623915 iyr:2017 eyr:2023 hcl:#733820 byr:1938 ecl:blu hgt:185cm 
+token: pid:575623915
+	field: pid
+token: iyr:2017
+	field: iyr
+token: eyr:2023
+	field: eyr
+token: hcl:#733820
+	field: hcl
+token: byr:1938
+	field: byr
+token: ecl:blu
+	field: ecl
+token: hgt:185cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#55ebaa hgt:157cm ecl:blu byr:1945 pid:946614649 eyr:2020 iyr:2012 
+token: hcl:#55ebaa
+	field: hcl
+token: hgt:157cm
+	field: hgt
+token: ecl:blu
+	field: ecl
+token: byr:1945
+	field: byr
+token: pid:946614649
+	field: pid
+token: eyr:2020
+	field: eyr
+token: iyr:2012
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:158cm hcl:#b80425 iyr:2017 eyr:2025 ecl:gry byr:1944 pid:838975683 
+token: hgt:158cm
+	field: hgt
+token: hcl:#b80425
+	field: hcl
+token: iyr:2017
+	field: iyr
+token: eyr:2025
+	field: eyr
+token: ecl:gry
+	field: ecl
+token: byr:1944
+	field: byr
+token: pid:838975683
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#41731c iyr:2020 byr:1971 ecl:oth hgt:186cm eyr:2030 pid:495358045 
+token: hcl:#41731c
+	field: hcl
+token: iyr:2020
+	field: iyr
+token: byr:1971
+	field: byr
+token: ecl:oth
+	field: ecl
+token: hgt:186cm
+	field: hgt
+token: eyr:2030
+	field: eyr
+token: pid:495358045
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:3884291521 eyr:2037 hgt:74cm byr:2003 ecl:hzl iyr:2022 hcl:#888785 cid:124 
+token: pid:3884291521
+	field: pid
+token: eyr:2037
+	field: eyr
+token: hgt:74cm
+	field: hgt
+token: byr:2003
+	field: byr
+token: ecl:hzl
+	field: ecl
+token: iyr:2022
+	field: iyr
+token: hcl:#888785
+	field: hcl
+token: cid:124
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:175cm cid:340 byr:1921 pid:183491348 iyr:2017 ecl:brn hcl:#602927 eyr:2028 
+token: hgt:175cm
+	field: hgt
+token: cid:340
+	field: cid
+token: byr:1921
+	field: byr
+token: pid:183491348
+	field: pid
+token: iyr:2017
+	field: iyr
+token: ecl:brn
+	field: ecl
+token: hcl:#602927
+	field: hcl
+token: eyr:2028
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#cfa07d hgt:161cm byr:2006 eyr:2024 pid:109854634 ecl:xry iyr:2024 
+token: hcl:#cfa07d
+	field: hcl
+token: hgt:161cm
+	field: hgt
+token: byr:2006
+	field: byr
+token: eyr:2024
+	field: eyr
+token: pid:109854634
+	field: pid
+token: ecl:xry
+	field: ecl
+token: iyr:2024
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:#ec6311 hcl:z iyr:2015 pid:#783693 eyr:1932 cid:271 hgt:82 
+token: ecl:#ec6311
+	field: ecl
+token: hcl:z
+	field: hcl
+token: iyr:2015
+	field: iyr
+token: pid:#783693
+	field: pid
+token: eyr:1932
+	field: eyr
+token: cid:271
+	field: cid
+token: hgt:82
+	field: hgt
+[0, 1, 1, 1, 1, 1, 1, 1]
+ecl:grn hgt:164cm hcl:#efcc98 eyr:2020 pid:824236769 byr:1952 iyr:2014 
+token: ecl:grn
+	field: ecl
+token: hgt:164cm
+	field: hgt
+token: hcl:#efcc98
+	field: hcl
+token: eyr:2020
+	field: eyr
+token: pid:824236769
+	field: pid
+token: byr:1952
+	field: byr
+token: iyr:2014
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:1964 pid:85558869 byr:2017 hcl:c81d94 iyr:2028 hgt:63cm ecl:#c00640 cid:115 
+token: eyr:1964
+	field: eyr
+token: pid:85558869
+	field: pid
+token: byr:2017
+	field: byr
+token: hcl:c81d94
+	field: hcl
+token: iyr:2028
+	field: iyr
+token: hgt:63cm
+	field: hgt
+token: ecl:#c00640
+	field: ecl
+token: cid:115
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2010 pid:431600716 hcl:z hgt:112 ecl:#3057e9 eyr:2027 iyr:2017 cid:91 
+token: byr:2010
+	field: byr
+token: pid:431600716
+	field: pid
+token: hcl:z
+	field: hcl
+token: hgt:112
+	field: hgt
+token: ecl:#3057e9
+	field: ecl
+token: eyr:2027
+	field: eyr
+token: iyr:2017
+	field: iyr
+token: cid:91
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2026 eyr:2037 pid:3800489571 ecl:grn cid:91 hcl:94b4d1 hgt:59cm 
+token: byr:2026
+	field: byr
+token: eyr:2037
+	field: eyr
+token: pid:3800489571
+	field: pid
+token: ecl:grn
+	field: ecl
+token: cid:91
+	field: cid
+token: hcl:94b4d1
+	field: hcl
+token: hgt:59cm
+	field: hgt
+[1, 0, 1, 1, 1, 1, 1, 1]
+cid:199 byr:2030 iyr:2021 hcl:c55653 hgt:168cm pid:160cm 
+token: cid:199
+	field: cid
+token: byr:2030
+	field: byr
+token: iyr:2021
+	field: iyr
+token: hcl:c55653
+	field: hcl
+token: hgt:168cm
+	field: hgt
+token: pid:160cm
+	field: pid
+[1, 1, 0, 1, 1, 0, 1, 1]
+hgt:68cm byr:2025 iyr:2023 eyr:1983 hcl:0004d4 ecl:#19fca6 pid:89901951 
+token: hgt:68cm
+	field: hgt
+token: byr:2025
+	field: byr
+token: iyr:2023
+	field: iyr
+token: eyr:1983
+	field: eyr
+token: hcl:0004d4
+	field: hcl
+token: ecl:#19fca6
+	field: ecl
+token: pid:89901951
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:170cm byr:2012 eyr:1981 hcl:c95b58 pid:#d28b3f cid:302 iyr:1953 ecl:#151ea4 
+token: hgt:170cm
+	field: hgt
+token: byr:2012
+	field: byr
+token: eyr:1981
+	field: eyr
+token: hcl:c95b58
+	field: hcl
+token: pid:#d28b3f
+	field: pid
+token: cid:302
+	field: cid
+token: iyr:1953
+	field: iyr
+token: ecl:#151ea4
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#6b5442 eyr:2024 hgt:161cm cid:210 ecl:#793ac0 pid:480283173 iyr:2019 byr:1967 
+token: hcl:#6b5442
+	field: hcl
+token: eyr:2024
+	field: eyr
+token: hgt:161cm
+	field: hgt
+token: cid:210
+	field: cid
+token: ecl:#793ac0
+	field: ecl
+token: pid:480283173
+	field: pid
+token: iyr:2019
+	field: iyr
+token: byr:1967
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:82 ecl:amb iyr:2017 eyr:2023 byr:1980 hgt:59in hcl:#888785 pid:323524654 
+token: cid:82
+	field: cid
+token: ecl:amb
+	field: ecl
+token: iyr:2017
+	field: iyr
+token: eyr:2023
+	field: eyr
+token: byr:1980
+	field: byr
+token: hgt:59in
+	field: hgt
+token: hcl:#888785
+	field: hcl
+token: pid:323524654
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#341e13 hgt:154cm iyr:2015 eyr:2023 byr:1953 ecl:blu pid:872964523 
+token: hcl:#341e13
+	field: hcl
+token: hgt:154cm
+	field: hgt
+token: iyr:2015
+	field: iyr
+token: eyr:2023
+	field: eyr
+token: byr:1953
+	field: byr
+token: ecl:blu
+	field: ecl
+token: pid:872964523
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2019 byr:1945 hcl:#efcc98 hgt:155in ecl:#1608c7 eyr:2030 pid:406045604 
+token: iyr:2019
+	field: iyr
+token: byr:1945
+	field: byr
+token: hcl:#efcc98
+	field: hcl
+token: hgt:155in
+	field: hgt
+token: ecl:#1608c7
+	field: ecl
+token: eyr:2030
+	field: eyr
+token: pid:406045604
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:lzr byr:2015 iyr:1938 eyr:2026 hcl:z pid:542894703 hgt:185 
+token: ecl:lzr
+	field: ecl
+token: byr:2015
+	field: byr
+token: iyr:1938
+	field: iyr
+token: eyr:2026
+	field: eyr
+token: hcl:z
+	field: hcl
+token: pid:542894703
+	field: pid
+token: hgt:185
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2021 hcl:#cfa07d ecl:hzl hgt:82 iyr:2018 byr:1932 pid:661993261 
+token: eyr:2021
+	field: eyr
+token: hcl:#cfa07d
+	field: hcl
+token: ecl:hzl
+	field: ecl
+token: hgt:82
+	field: hgt
+token: iyr:2018
+	field: iyr
+token: byr:1932
+	field: byr
+token: pid:661993261
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:brn hcl:#602927 hgt:193cm pid:572216250 byr:1929 eyr:2020 iyr:2010 cid:206 
+token: ecl:brn
+	field: ecl
+token: hcl:#602927
+	field: hcl
+token: hgt:193cm
+	field: hgt
+token: pid:572216250
+	field: pid
+token: byr:1929
+	field: byr
+token: eyr:2020
+	field: eyr
+token: iyr:2010
+	field: iyr
+token: cid:206
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:amb eyr:2025 pid:932260335 byr:1978 iyr:2012 hcl:#cfa07d cid:260 hgt:67in 
+token: ecl:amb
+	field: ecl
+token: eyr:2025
+	field: eyr
+token: pid:932260335
+	field: pid
+token: byr:1978
+	field: byr
+token: iyr:2012
+	field: iyr
+token: hcl:#cfa07d
+	field: hcl
+token: cid:260
+	field: cid
+token: hgt:67in
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:635410614 byr:1948 hgt:156cm hcl:#071bc0 eyr:2026 ecl:grn cid:275 iyr:2014 
+token: pid:635410614
+	field: pid
+token: byr:1948
+	field: byr
+token: hgt:156cm
+	field: hgt
+token: hcl:#071bc0
+	field: hcl
+token: eyr:2026
+	field: eyr
+token: ecl:grn
+	field: ecl
+token: cid:275
+	field: cid
+token: iyr:2014
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#8a4888 byr:1986 iyr:2010 ecl:amb cid:113 pid:974757414 hgt:174cm eyr:2024 
+token: hcl:#8a4888
+	field: hcl
+token: byr:1986
+	field: byr
+token: iyr:2010
+	field: iyr
+token: ecl:amb
+	field: ecl
+token: cid:113
+	field: cid
+token: pid:974757414
+	field: pid
+token: hgt:174cm
+	field: hgt
+token: eyr:2024
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1934 ecl:amb iyr:2016 pid:280206549 hgt:176cm eyr:2020 hcl:#fffffd 
+token: byr:1934
+	field: byr
+token: ecl:amb
+	field: ecl
+token: iyr:2016
+	field: iyr
+token: pid:280206549
+	field: pid
+token: hgt:176cm
+	field: hgt
+token: eyr:2020
+	field: eyr
+token: hcl:#fffffd
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:544634927 eyr:2021 hgt:188cm byr:1947 iyr:2020 hcl:#008716 ecl:oth cid:97 
+token: pid:544634927
+	field: pid
+token: eyr:2021
+	field: eyr
+token: hgt:188cm
+	field: hgt
+token: byr:1947
+	field: byr
+token: iyr:2020
+	field: iyr
+token: hcl:#008716
+	field: hcl
+token: ecl:oth
+	field: ecl
+token: cid:97
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2026 pid:863010622 byr:1978 hcl:#b6652a hgt:157cm cid:323 iyr:2020 ecl:blu 
+token: eyr:2026
+	field: eyr
+token: pid:863010622
+	field: pid
+token: byr:1978
+	field: byr
+token: hcl:#b6652a
+	field: hcl
+token: hgt:157cm
+	field: hgt
+token: cid:323
+	field: cid
+token: iyr:2020
+	field: iyr
+token: ecl:blu
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:105 byr:1926 hcl:#6b5442 pid:049198636 eyr:2026 hgt:75in iyr:2018 ecl:blu 
+token: cid:105
+	field: cid
+token: byr:1926
+	field: byr
+token: hcl:#6b5442
+	field: hcl
+token: pid:049198636
+	field: pid
+token: eyr:2026
+	field: eyr
+token: hgt:75in
+	field: hgt
+token: iyr:2018
+	field: iyr
+token: ecl:blu
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2038 hgt:76cm byr:2020 pid:9036865757 iyr:2025 ecl:#a2c975 hcl:z cid:340 
+token: eyr:2038
+	field: eyr
+token: hgt:76cm
+	field: hgt
+token: byr:2020
+	field: byr
+token: pid:9036865757
+	field: pid
+token: iyr:2025
+	field: iyr
+token: ecl:#a2c975
+	field: ecl
+token: hcl:z
+	field: hcl
+token: cid:340
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:425619875 cid:263 byr:1935 eyr:2028 hgt:192cm iyr:2010 hcl:#a6ddfc ecl:hzl 
+token: pid:425619875
+	field: pid
+token: cid:263
+	field: cid
+token: byr:1935
+	field: byr
+token: eyr:2028
+	field: eyr
+token: hgt:192cm
+	field: hgt
+token: iyr:2010
+	field: iyr
+token: hcl:#a6ddfc
+	field: hcl
+token: ecl:hzl
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:107 hgt:189cm hcl:#733820 ecl:blu eyr:2028 iyr:2020 pid:814895947 
+token: cid:107
+	field: cid
+token: hgt:189cm
+	field: hgt
+token: hcl:#733820
+	field: hcl
+token: ecl:blu
+	field: ecl
+token: eyr:2028
+	field: eyr
+token: iyr:2020
+	field: iyr
+token: pid:814895947
+	field: pid
+[0, 1, 1, 1, 1, 1, 1, 1]
+cid:96 hgt:74in hcl:z pid:170cm ecl:#0240fd byr:2004 iyr:2013 eyr:1936 
+token: cid:96
+	field: cid
+token: hgt:74in
+	field: hgt
+token: hcl:z
+	field: hcl
+token: pid:170cm
+	field: pid
+token: ecl:#0240fd
+	field: ecl
+token: byr:2004
+	field: byr
+token: iyr:2013
+	field: iyr
+token: eyr:1936
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:blu eyr:2027 hcl:#341e13 iyr:2020 cid:94 hgt:174cm 
+token: ecl:blu
+	field: ecl
+token: eyr:2027
+	field: eyr
+token: hcl:#341e13
+	field: hcl
+token: iyr:2020
+	field: iyr
+token: cid:94
+	field: cid
+token: hgt:174cm
+	field: hgt
+[0, 1, 1, 1, 1, 1, 0, 1]
+iyr:2013 ecl:amb eyr:2030 hcl:#b6652a byr:1964 pid:329942894 
+token: iyr:2013
+	field: iyr
+token: ecl:amb
+	field: ecl
+token: eyr:2030
+	field: eyr
+token: hcl:#b6652a
+	field: hcl
+token: byr:1964
+	field: byr
+token: pid:329942894
+	field: pid
+[1, 1, 1, 0, 1, 1, 1, 0]
+byr:1995 ecl:hzl eyr:2030 hgt:177cm hcl:#341e13 cid:64 
+token: byr:1995
+	field: byr
+token: ecl:hzl
+	field: ecl
+token: eyr:2030
+	field: eyr
+token: hgt:177cm
+	field: hgt
+token: hcl:#341e13
+	field: hcl
+token: cid:64
+	field: cid
+[1, 0, 1, 1, 1, 1, 0, 1]
+eyr:2027 pid:708191313 ecl:#390609 byr:2022 iyr:2010 cid:292 hgt:129 hcl:#733820 
+token: eyr:2027
+	field: eyr
+token: pid:708191313
+	field: pid
+token: ecl:#390609
+	field: ecl
+token: byr:2022
+	field: byr
+token: iyr:2010
+	field: iyr
+token: cid:292
+	field: cid
+token: hgt:129
+	field: hgt
+token: hcl:#733820
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#733820 ecl:hzl eyr:2030 iyr:2011 hgt:156cm byr:2002 pid:932464949 
+token: hcl:#733820
+	field: hcl
+token: ecl:hzl
+	field: ecl
+token: eyr:2030
+	field: eyr
+token: iyr:2011
+	field: iyr
+token: hgt:156cm
+	field: hgt
+token: byr:2002
+	field: byr
+token: pid:932464949
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:1941 byr:2027 ecl:xry eyr:1949 pid:82479270 hgt:175 hcl:z cid:157 
+token: iyr:1941
+	field: iyr
+token: byr:2027
+	field: byr
+token: ecl:xry
+	field: ecl
+token: eyr:1949
+	field: eyr
+token: pid:82479270
+	field: pid
+token: hgt:175
+	field: hgt
+token: hcl:z
+	field: hcl
+token: cid:157
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1927 pid:708954312 eyr:2028 ecl:oth hgt:167cm hcl:#602927 iyr:2011 
+token: byr:1927
+	field: byr
+token: pid:708954312
+	field: pid
+token: eyr:2028
+	field: eyr
+token: ecl:oth
+	field: ecl
+token: hgt:167cm
+	field: hgt
+token: hcl:#602927
+	field: hcl
+token: iyr:2011
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:125 eyr:2034 iyr:2030 hgt:116 byr:2030 hcl:f773ce pid:#d24ed1 ecl:lzr 
+token: cid:125
+	field: cid
+token: eyr:2034
+	field: eyr
+token: iyr:2030
+	field: iyr
+token: hgt:116
+	field: hgt
+token: byr:2030
+	field: byr
+token: hcl:f773ce
+	field: hcl
+token: pid:#d24ed1
+	field: pid
+token: ecl:lzr
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#efcc98 byr:1947 pid:423105162 ecl:brn iyr:2019 hgt:154cm eyr:2026 cid:174 
+token: hcl:#efcc98
+	field: hcl
+token: byr:1947
+	field: byr
+token: pid:423105162
+	field: pid
+token: ecl:brn
+	field: ecl
+token: iyr:2019
+	field: iyr
+token: hgt:154cm
+	field: hgt
+token: eyr:2026
+	field: eyr
+token: cid:174
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2017 ecl:gry hcl:#341e13 pid:314487906 eyr:2038 hgt:171cm byr:2014 
+token: iyr:2017
+	field: iyr
+token: ecl:gry
+	field: ecl
+token: hcl:#341e13
+	field: hcl
+token: pid:314487906
+	field: pid
+token: eyr:2038
+	field: eyr
+token: hgt:171cm
+	field: hgt
+token: byr:2014
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:630479640 ecl:brn hgt:163cm iyr:2013 eyr:2028 byr:1998 hcl:#866857 
+token: pid:630479640
+	field: pid
+token: ecl:brn
+	field: ecl
+token: hgt:163cm
+	field: hgt
+token: iyr:2013
+	field: iyr
+token: eyr:2028
+	field: eyr
+token: byr:1998
+	field: byr
+token: hcl:#866857
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2013 hcl:z byr:2016 ecl:#43d879 pid:996281170 cid:200 hgt:153 eyr:2030 
+token: iyr:2013
+	field: iyr
+token: hcl:z
+	field: hcl
+token: byr:2016
+	field: byr
+token: ecl:#43d879
+	field: ecl
+token: pid:996281170
+	field: pid
+token: cid:200
+	field: cid
+token: hgt:153
+	field: hgt
+token: eyr:2030
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2023 pid:081908248 iyr:2020 eyr:2035 hgt:175in ecl:grt hcl:30ab42 
+token: byr:2023
+	field: byr
+token: pid:081908248
+	field: pid
+token: iyr:2020
+	field: iyr
+token: eyr:2035
+	field: eyr
+token: hgt:175in
+	field: hgt
+token: ecl:grt
+	field: ecl
+token: hcl:30ab42
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2018 byr:1995 eyr:2029 ecl:grn pid:882123182 hgt:62cm hcl:#fffffd 
+token: iyr:2018
+	field: iyr
+token: byr:1995
+	field: byr
+token: eyr:2029
+	field: eyr
+token: ecl:grn
+	field: ecl
+token: pid:882123182
+	field: pid
+token: hgt:62cm
+	field: hgt
+token: hcl:#fffffd
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1978 hcl:z iyr:1923 ecl:blu eyr:2037 pid:#1f3467 hgt:186cm 
+token: byr:1978
+	field: byr
+token: hcl:z
+	field: hcl
+token: iyr:1923
+	field: iyr
+token: ecl:blu
+	field: ecl
+token: eyr:2037
+	field: eyr
+token: pid:#1f3467
+	field: pid
+token: hgt:186cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:264 ecl:#ab07c5 iyr:1927 hcl:2d6f9c hgt:74cm byr:2008 pid:874594495 eyr:2035 
+token: cid:264
+	field: cid
+token: ecl:#ab07c5
+	field: ecl
+token: iyr:1927
+	field: iyr
+token: hcl:2d6f9c
+	field: hcl
+token: hgt:74cm
+	field: hgt
+token: byr:2008
+	field: byr
+token: pid:874594495
+	field: pid
+token: eyr:2035
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:lzr hgt:69cm hcl:76854c cid:336 pid:7830555583 iyr:1920 byr:2021 eyr:2038 
+token: ecl:lzr
+	field: ecl
+token: hgt:69cm
+	field: hgt
+token: hcl:76854c
+	field: hcl
+token: cid:336
+	field: cid
+token: pid:7830555583
+	field: pid
+token: iyr:1920
+	field: iyr
+token: byr:2021
+	field: byr
+token: eyr:2038
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:160cm byr:2029 ecl:#7f9d1b hcl:z iyr:1975 pid:652466273 eyr:2031 
+token: hgt:160cm
+	field: hgt
+token: byr:2029
+	field: byr
+token: ecl:#7f9d1b
+	field: ecl
+token: hcl:z
+	field: hcl
+token: iyr:1975
+	field: iyr
+token: pid:652466273
+	field: pid
+token: eyr:2031
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:oth eyr:2027 iyr:2019 pid:544347482 byr:1988 hgt:182cm hcl:#cfa07d 
+token: ecl:oth
+	field: ecl
+token: eyr:2027
+	field: eyr
+token: iyr:2019
+	field: iyr
+token: pid:544347482
+	field: pid
+token: byr:1988
+	field: byr
+token: hgt:182cm
+	field: hgt
+token: hcl:#cfa07d
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:176cm iyr:2016 hcl:ec1dc3 pid:521230755 byr:2030 ecl:amb eyr:2025 
+token: hgt:176cm
+	field: hgt
+token: iyr:2016
+	field: iyr
+token: hcl:ec1dc3
+	field: hcl
+token: pid:521230755
+	field: pid
+token: byr:2030
+	field: byr
+token: ecl:amb
+	field: ecl
+token: eyr:2025
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:005216805 byr:1951 ecl:hzl hcl:#efcc98 eyr:2022 iyr:2016 hgt:154cm 
+token: pid:005216805
+	field: pid
+token: byr:1951
+	field: byr
+token: ecl:hzl
+	field: ecl
+token: hcl:#efcc98
+	field: hcl
+token: eyr:2022
+	field: eyr
+token: iyr:2016
+	field: iyr
+token: hgt:154cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1943 hcl:#866857 eyr:1984 hgt:64cm pid:3105984 iyr:1997 ecl:lzr 
+token: byr:1943
+	field: byr
+token: hcl:#866857
+	field: hcl
+token: eyr:1984
+	field: eyr
+token: hgt:64cm
+	field: hgt
+token: pid:3105984
+	field: pid
+token: iyr:1997
+	field: iyr
+token: ecl:lzr
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2024 byr:1931 pid:929699878 hgt:169cm cid:81 hcl:#efcc98 
+token: eyr:2024
+	field: eyr
+token: byr:1931
+	field: byr
+token: pid:929699878
+	field: pid
+token: hgt:169cm
+	field: hgt
+token: cid:81
+	field: cid
+token: hcl:#efcc98
+	field: hcl
+[1, 0, 1, 1, 1, 0, 1, 1]
+iyr:2011 pid:558972589 hgt:163cm cid:155 eyr:2025 byr:1952 ecl:oth hcl:#c0946f 
+token: iyr:2011
+	field: iyr
+token: pid:558972589
+	field: pid
+token: hgt:163cm
+	field: hgt
+token: cid:155
+	field: cid
+token: eyr:2025
+	field: eyr
+token: byr:1952
+	field: byr
+token: ecl:oth
+	field: ecl
+token: hcl:#c0946f
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:787560595 eyr:2036 hcl:#888785 byr:1999 iyr:1971 ecl:blu 
+token: pid:787560595
+	field: pid
+token: eyr:2036
+	field: eyr
+token: hcl:#888785
+	field: hcl
+token: byr:1999
+	field: byr
+token: iyr:1971
+	field: iyr
+token: ecl:blu
+	field: ecl
+[1, 1, 1, 0, 1, 1, 1, 0]
+hgt:165in pid:032310066 eyr:1926 byr:1954 ecl:brn hcl:41964f iyr:2023 
+token: hgt:165in
+	field: hgt
+token: pid:032310066
+	field: pid
+token: eyr:1926
+	field: eyr
+token: byr:1954
+	field: byr
+token: ecl:brn
+	field: ecl
+token: hcl:41964f
+	field: hcl
+token: iyr:2023
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#733820 pid:563740385 hgt:184cm iyr:1959 ecl:gmt cid:242 byr:1999 
+token: hcl:#733820
+	field: hcl
+token: pid:563740385
+	field: pid
+token: hgt:184cm
+	field: hgt
+token: iyr:1959
+	field: iyr
+token: ecl:gmt
+	field: ecl
+token: cid:242
+	field: cid
+token: byr:1999
+	field: byr
+[1, 1, 0, 1, 1, 1, 1, 1]
+pid:4949046383 byr:2011 hcl:fcf63b ecl:hzl hgt:174in iyr:2023 eyr:1939 
+token: pid:4949046383
+	field: pid
+token: byr:2011
+	field: byr
+token: hcl:fcf63b
+	field: hcl
+token: ecl:hzl
+	field: ecl
+token: hgt:174in
+	field: hgt
+token: iyr:2023
+	field: iyr
+token: eyr:1939
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:331 ecl:grt hcl:z eyr:2003 hgt:172in byr:2012 iyr:1954 pid:#9f4663 
+token: cid:331
+	field: cid
+token: ecl:grt
+	field: ecl
+token: hcl:z
+	field: hcl
+token: eyr:2003
+	field: eyr
+token: hgt:172in
+	field: hgt
+token: byr:2012
+	field: byr
+token: iyr:1954
+	field: iyr
+token: pid:#9f4663
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:223 byr:1939 eyr:2025 ecl:oth hgt:161cm iyr:2015 pid:214576789 hcl:#866857 
+token: cid:223
+	field: cid
+token: byr:1939
+	field: byr
+token: eyr:2025
+	field: eyr
+token: ecl:oth
+	field: ecl
+token: hgt:161cm
+	field: hgt
+token: iyr:2015
+	field: iyr
+token: pid:214576789
+	field: pid
+token: hcl:#866857
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:oth pid:912009529 byr:1968 hgt:161cm hcl:#ceb3a1 eyr:2023 iyr:2017 
+token: ecl:oth
+	field: ecl
+token: pid:912009529
+	field: pid
+token: byr:1968
+	field: byr
+token: hgt:161cm
+	field: hgt
+token: hcl:#ceb3a1
+	field: hcl
+token: eyr:2023
+	field: eyr
+token: iyr:2017
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:858541281 hgt:150cm eyr:2021 iyr:2013 ecl:gry hcl:#fffffd byr:1959 
+token: pid:858541281
+	field: pid
+token: hgt:150cm
+	field: hgt
+token: eyr:2021
+	field: eyr
+token: iyr:2013
+	field: iyr
+token: ecl:gry
+	field: ecl
+token: hcl:#fffffd
+	field: hcl
+token: byr:1959
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:#0024e0 byr:2006 cid:107 iyr:2015 hcl:684416 hgt:94 pid:152cm eyr:2031 
+token: ecl:#0024e0
+	field: ecl
+token: byr:2006
+	field: byr
+token: cid:107
+	field: cid
+token: iyr:2015
+	field: iyr
+token: hcl:684416
+	field: hcl
+token: hgt:94
+	field: hgt
+token: pid:152cm
+	field: pid
+token: eyr:2031
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1987 hcl:z ecl:gry pid:#246fe1 hgt:65cm eyr:1992 iyr:2020 
+token: byr:1987
+	field: byr
+token: hcl:z
+	field: hcl
+token: ecl:gry
+	field: ecl
+token: pid:#246fe1
+	field: pid
+token: hgt:65cm
+	field: hgt
+token: eyr:1992
+	field: eyr
+token: iyr:2020
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:426999585 ecl:hzl byr:1949 hcl:#888785 hgt:191cm iyr:2020 eyr:2020 
+token: pid:426999585
+	field: pid
+token: ecl:hzl
+	field: ecl
+token: byr:1949
+	field: byr
+token: hcl:#888785
+	field: hcl
+token: hgt:191cm
+	field: hgt
+token: iyr:2020
+	field: iyr
+token: eyr:2020
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1951 hcl:#623a2f cid:308 ecl:hzl hgt:174cm pid:226138254 eyr:2028 iyr:2018 
+token: byr:1951
+	field: byr
+token: hcl:#623a2f
+	field: hcl
+token: cid:308
+	field: cid
+token: ecl:hzl
+	field: ecl
+token: hgt:174cm
+	field: hgt
+token: pid:226138254
+	field: pid
+token: eyr:2028
+	field: eyr
+token: iyr:2018
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:brn hgt:62in eyr:2020 hcl:#ceb3a1 pid:650916481 byr:1940 iyr:2018 
+token: ecl:brn
+	field: ecl
+token: hgt:62in
+	field: hgt
+token: eyr:2020
+	field: eyr
+token: hcl:#ceb3a1
+	field: hcl
+token: pid:650916481
+	field: pid
+token: byr:1940
+	field: byr
+token: iyr:2018
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#efcc98 ecl:brn byr:1940 eyr:2024 pid:#68d3ab hgt:177cm cid:83 iyr:2017 
+token: hcl:#efcc98
+	field: hcl
+token: ecl:brn
+	field: ecl
+token: byr:1940
+	field: byr
+token: eyr:2024
+	field: eyr
+token: pid:#68d3ab
+	field: pid
+token: hgt:177cm
+	field: hgt
+token: cid:83
+	field: cid
+token: iyr:2017
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:9704738756 hcl:#fffffd eyr:1925 iyr:2019 byr:1929 ecl:blu hgt:191cm 
+token: pid:9704738756
+	field: pid
+token: hcl:#fffffd
+	field: hcl
+token: eyr:1925
+	field: eyr
+token: iyr:2019
+	field: iyr
+token: byr:1929
+	field: byr
+token: ecl:blu
+	field: ecl
+token: hgt:191cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:brn hgt:151cm hcl:#c0946f iyr:2018 pid:602505609 eyr:2020 byr:1974 
+token: ecl:brn
+	field: ecl
+token: hgt:151cm
+	field: hgt
+token: hcl:#c0946f
+	field: hcl
+token: iyr:2018
+	field: iyr
+token: pid:602505609
+	field: pid
+token: eyr:2020
+	field: eyr
+token: byr:1974
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:178cm eyr:2023 byr:1922 iyr:2013 hcl:#fffffd pid:205291054 ecl:blu 
+token: hgt:178cm
+	field: hgt
+token: eyr:2023
+	field: eyr
+token: byr:1922
+	field: byr
+token: iyr:2013
+	field: iyr
+token: hcl:#fffffd
+	field: hcl
+token: pid:205291054
+	field: pid
+token: ecl:blu
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1985 iyr:2016 hcl:#ceb3a1 hgt:161cm eyr:2030 ecl:amb pid:871809978 
+token: byr:1985
+	field: byr
+token: iyr:2016
+	field: iyr
+token: hcl:#ceb3a1
+	field: hcl
+token: hgt:161cm
+	field: hgt
+token: eyr:2030
+	field: eyr
+token: ecl:amb
+	field: ecl
+token: pid:871809978
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2027 ecl:#d9c9cb hgt:110 eyr:2034 hcl:99d4ee pid:13355969 cid:168 
+token: iyr:2027
+	field: iyr
+token: ecl:#d9c9cb
+	field: ecl
+token: hgt:110
+	field: hgt
+token: eyr:2034
+	field: eyr
+token: hcl:99d4ee
+	field: hcl
+token: pid:13355969
+	field: pid
+token: cid:168
+	field: cid
+[0, 1, 1, 1, 1, 1, 1, 1]
+ecl:utc byr:2019 iyr:2016 hgt:173in cid:266 hcl:z eyr:2033 pid:1835189643 
+token: ecl:utc
+	field: ecl
+token: byr:2019
+	field: byr
+token: iyr:2016
+	field: iyr
+token: hgt:173in
+	field: hgt
+token: cid:266
+	field: cid
+token: hcl:z
+	field: hcl
+token: eyr:2033
+	field: eyr
+token: pid:1835189643
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:364874100 ecl:amb hcl:#6b5442 hgt:184cm iyr:2017 eyr:2026 byr:1920 cid:127 
+token: pid:364874100
+	field: pid
+token: ecl:amb
+	field: ecl
+token: hcl:#6b5442
+	field: hcl
+token: hgt:184cm
+	field: hgt
+token: iyr:2017
+	field: iyr
+token: eyr:2026
+	field: eyr
+token: byr:1920
+	field: byr
+token: cid:127
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:dne eyr:2020 byr:2018 cid:262 iyr:2010 hgt:60cm pid:95409983 hcl:z 
+token: ecl:dne
+	field: ecl
+token: eyr:2020
+	field: eyr
+token: byr:2018
+	field: byr
+token: cid:262
+	field: cid
+token: iyr:2010
+	field: iyr
+token: hgt:60cm
+	field: hgt
+token: pid:95409983
+	field: pid
+token: hcl:z
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2026 pid:135963889 iyr:2018 hcl:#ceb3a1 ecl:amb 
+token: eyr:2026
+	field: eyr
+token: pid:135963889
+	field: pid
+token: iyr:2018
+	field: iyr
+token: hcl:#ceb3a1
+	field: hcl
+token: ecl:amb
+	field: ecl
+[0, 1, 1, 0, 1, 1, 1, 0]
+hcl:#341e13 eyr:2028 iyr:2014 byr:1978 cid:309 pid:503628987 ecl:oth hgt:159cm 
+token: hcl:#341e13
+	field: hcl
+token: eyr:2028
+	field: eyr
+token: iyr:2014
+	field: iyr
+token: byr:1978
+	field: byr
+token: cid:309
+	field: cid
+token: pid:503628987
+	field: pid
+token: ecl:oth
+	field: ecl
+token: hgt:159cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#a97842 pid:171194014 hgt:193cm eyr:2023 byr:1945 ecl:grt iyr:2019 
+token: hcl:#a97842
+	field: hcl
+token: pid:171194014
+	field: pid
+token: hgt:193cm
+	field: hgt
+token: eyr:2023
+	field: eyr
+token: byr:1945
+	field: byr
+token: ecl:grt
+	field: ecl
+token: iyr:2019
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:1967 cid:135 hcl:z ecl:gmt iyr:2024 pid:#a87744 byr:2023 hgt:168cm 
+token: eyr:1967
+	field: eyr
+token: cid:135
+	field: cid
+token: hcl:z
+	field: hcl
+token: ecl:gmt
+	field: ecl
+token: iyr:2024
+	field: iyr
+token: pid:#a87744
+	field: pid
+token: byr:2023
+	field: byr
+token: hgt:168cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:169cm cid:337 ecl:hzl hcl:#888785 byr:1927 hgt:153cm iyr:2022 eyr:2020 
+token: pid:169cm
+	field: pid
+token: cid:337
+	field: cid
+token: ecl:hzl
+	field: ecl
+token: hcl:#888785
+	field: hcl
+token: byr:1927
+	field: byr
+token: hgt:153cm
+	field: hgt
+token: iyr:2022
+	field: iyr
+token: eyr:2020
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1963 hcl:#fffffd eyr:2021 hgt:62in pid:702188504 iyr:2013 ecl:hzl 
+token: byr:1963
+	field: byr
+token: hcl:#fffffd
+	field: hcl
+token: eyr:2021
+	field: eyr
+token: hgt:62in
+	field: hgt
+token: pid:702188504
+	field: pid
+token: iyr:2013
+	field: iyr
+token: ecl:hzl
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2024 ecl:amb hcl:#ceb3a1 eyr:2017 pid:49752568 hgt:179cm byr:1938 
+token: iyr:2024
+	field: iyr
+token: ecl:amb
+	field: ecl
+token: hcl:#ceb3a1
+	field: hcl
+token: eyr:2017
+	field: eyr
+token: pid:49752568
+	field: pid
+token: hgt:179cm
+	field: hgt
+token: byr:1938
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:2006 ecl:#08021a eyr:2022 pid:520309937 hgt:61in hcl:#ceb3a1 iyr:2013 
+token: byr:2006
+	field: byr
+token: ecl:#08021a
+	field: ecl
+token: eyr:2022
+	field: eyr
+token: pid:520309937
+	field: pid
+token: hgt:61in
+	field: hgt
+token: hcl:#ceb3a1
+	field: hcl
+token: iyr:2013
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:150cm hcl:#733820 byr:1971 ecl:zzz cid:347 iyr:2020 eyr:2020 pid:6028818045 
+token: hgt:150cm
+	field: hgt
+token: hcl:#733820
+	field: hcl
+token: byr:1971
+	field: byr
+token: ecl:zzz
+	field: ecl
+token: cid:347
+	field: cid
+token: iyr:2020
+	field: iyr
+token: eyr:2020
+	field: eyr
+token: pid:6028818045
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2005 hgt:69cm ecl:lzr hcl:z iyr:2009 eyr:2038 pid:79626157 
+token: byr:2005
+	field: byr
+token: hgt:69cm
+	field: hgt
+token: ecl:lzr
+	field: ecl
+token: hcl:z
+	field: hcl
+token: iyr:2009
+	field: iyr
+token: eyr:2038
+	field: eyr
+token: pid:79626157
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2020 byr:2015 pid:882923693 hcl:#888785 eyr:2030 ecl:xry hgt:65in 
+token: iyr:2020
+	field: iyr
+token: byr:2015
+	field: byr
+token: pid:882923693
+	field: pid
+token: hcl:#888785
+	field: hcl
+token: eyr:2030
+	field: eyr
+token: ecl:xry
+	field: ecl
+token: hgt:65in
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:z hgt:187cm pid:4397913655 iyr:1973 eyr:1925 ecl:#93ae1a 
+token: hcl:z
+	field: hcl
+token: hgt:187cm
+	field: hgt
+token: pid:4397913655
+	field: pid
+token: iyr:1973
+	field: iyr
+token: eyr:1925
+	field: eyr
+token: ecl:#93ae1a
+	field: ecl
+[0, 1, 1, 1, 1, 1, 1, 0]
+hgt:169cm iyr:2019 eyr:2023 pid:678937529 ecl:blu byr:1998 hcl:#fffffd 
+token: hgt:169cm
+	field: hgt
+token: iyr:2019
+	field: iyr
+token: eyr:2023
+	field: eyr
+token: pid:678937529
+	field: pid
+token: ecl:blu
+	field: ecl
+token: byr:1998
+	field: byr
+token: hcl:#fffffd
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:87 hcl:#efcc98 ecl:#e56390 iyr:2013 hgt:191in eyr:2027 pid:923358773 byr:1960 
+token: cid:87
+	field: cid
+token: hcl:#efcc98
+	field: hcl
+token: ecl:#e56390
+	field: ecl
+token: iyr:2013
+	field: iyr
+token: hgt:191in
+	field: hgt
+token: eyr:2027
+	field: eyr
+token: pid:923358773
+	field: pid
+token: byr:1960
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:190cm byr:1939 cid:55 eyr:2026 ecl:blu hcl:#623a2f pid:363917612 iyr:2012 
+token: hgt:190cm
+	field: hgt
+token: byr:1939
+	field: byr
+token: cid:55
+	field: cid
+token: eyr:2026
+	field: eyr
+token: ecl:blu
+	field: ecl
+token: hcl:#623a2f
+	field: hcl
+token: pid:363917612
+	field: pid
+token: iyr:2012
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:177cm hgt:165cm cid:276 eyr:2002 byr:2010 hcl:#7bea4c iyr:2017 ecl:grt 
+token: pid:177cm
+	field: pid
+token: hgt:165cm
+	field: hgt
+token: cid:276
+	field: cid
+token: eyr:2002
+	field: eyr
+token: byr:2010
+	field: byr
+token: hcl:#7bea4c
+	field: hcl
+token: iyr:2017
+	field: iyr
+token: ecl:grt
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:2023 eyr:2031 iyr:1987 hgt:172 hcl:z pid:4973557135 ecl:#7517e2 
+token: byr:2023
+	field: byr
+token: eyr:2031
+	field: eyr
+token: iyr:1987
+	field: iyr
+token: hgt:172
+	field: hgt
+token: hcl:z
+	field: hcl
+token: pid:4973557135
+	field: pid
+token: ecl:#7517e2
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2036 iyr:1989 ecl:#ef5492 hgt:188in pid:#b50065 hcl:92e9ee byr:2015 
+token: eyr:2036
+	field: eyr
+token: iyr:1989
+	field: iyr
+token: ecl:#ef5492
+	field: ecl
+token: hgt:188in
+	field: hgt
+token: pid:#b50065
+	field: pid
+token: hcl:92e9ee
+	field: hcl
+token: byr:2015
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:873654822 iyr:2016 cid:310 hgt:76in eyr:2029 hcl:#888785 byr:1958 ecl:brn 
+token: pid:873654822
+	field: pid
+token: iyr:2016
+	field: iyr
+token: cid:310
+	field: cid
+token: hgt:76in
+	field: hgt
+token: eyr:2029
+	field: eyr
+token: hcl:#888785
+	field: hcl
+token: byr:1958
+	field: byr
+token: ecl:brn
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2013 ecl:amb byr:2024 hgt:166cm cid:221 eyr:2040 pid:358648642 hcl:#733820 
+token: iyr:2013
+	field: iyr
+token: ecl:amb
+	field: ecl
+token: byr:2024
+	field: byr
+token: hgt:166cm
+	field: hgt
+token: cid:221
+	field: cid
+token: eyr:2040
+	field: eyr
+token: pid:358648642
+	field: pid
+token: hcl:#733820
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:181cm cid:295 ecl:blu eyr:2027 iyr:2016 byr:1932 hcl:#2502ba pid:177357899 
+token: hgt:181cm
+	field: hgt
+token: cid:295
+	field: cid
+token: ecl:blu
+	field: ecl
+token: eyr:2027
+	field: eyr
+token: iyr:2016
+	field: iyr
+token: byr:1932
+	field: byr
+token: hcl:#2502ba
+	field: hcl
+token: pid:177357899
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:154588649 eyr:2028 byr:1945 iyr:2020 ecl:amb cid:220 hgt:189cm hcl:#a97842 
+token: pid:154588649
+	field: pid
+token: eyr:2028
+	field: eyr
+token: byr:1945
+	field: byr
+token: iyr:2020
+	field: iyr
+token: ecl:amb
+	field: ecl
+token: cid:220
+	field: cid
+token: hgt:189cm
+	field: hgt
+token: hcl:#a97842
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2011 eyr:2030 cid:143 byr:1998 pid:403108989 ecl:oth hcl:#6b5442 hgt:151cm 
+token: iyr:2011
+	field: iyr
+token: eyr:2030
+	field: eyr
+token: cid:143
+	field: cid
+token: byr:1998
+	field: byr
+token: pid:403108989
+	field: pid
+token: ecl:oth
+	field: ecl
+token: hcl:#6b5442
+	field: hcl
+token: hgt:151cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:071042426 cid:217 iyr:2017 ecl:grn byr:1989 eyr:2026 hgt:193cm hcl:#7d3b0c 
+token: pid:071042426
+	field: pid
+token: cid:217
+	field: cid
+token: iyr:2017
+	field: iyr
+token: ecl:grn
+	field: ecl
+token: byr:1989
+	field: byr
+token: eyr:2026
+	field: eyr
+token: hgt:193cm
+	field: hgt
+token: hcl:#7d3b0c
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2025 iyr:2025 pid:3942412883 hcl:#cfa07d cid:237 ecl:utc hgt:182 
+token: eyr:2025
+	field: eyr
+token: iyr:2025
+	field: iyr
+token: pid:3942412883
+	field: pid
+token: hcl:#cfa07d
+	field: hcl
+token: cid:237
+	field: cid
+token: ecl:utc
+	field: ecl
+token: hgt:182
+	field: hgt
+[0, 1, 1, 1, 1, 1, 1, 1]
+iyr:2012 eyr:1982 byr:2029 pid:8573047090 hgt:159in ecl:#1e0124 hcl:#b6652a 
+token: iyr:2012
+	field: iyr
+token: eyr:1982
+	field: eyr
+token: byr:2029
+	field: byr
+token: pid:8573047090
+	field: pid
+token: hgt:159in
+	field: hgt
+token: ecl:#1e0124
+	field: ecl
+token: hcl:#b6652a
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:53c64f ecl:gmt iyr:1984 byr:2029 hgt:59cm pid:#106076 eyr:2031 
+token: hcl:53c64f
+	field: hcl
+token: ecl:gmt
+	field: ecl
+token: iyr:1984
+	field: iyr
+token: byr:2029
+	field: byr
+token: hgt:59cm
+	field: hgt
+token: pid:#106076
+	field: pid
+token: eyr:2031
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#733820 iyr:2019 eyr:2031 pid:706963298 hgt:134 byr:2004 
+token: hcl:#733820
+	field: hcl
+token: iyr:2019
+	field: iyr
+token: eyr:2031
+	field: eyr
+token: pid:706963298
+	field: pid
+token: hgt:134
+	field: hgt
+token: byr:2004
+	field: byr
+[1, 1, 1, 1, 1, 0, 1, 0]
+byr:2012 cid:161 eyr:2039 ecl:gry hgt:61cm iyr:1949 pid:870113802 hcl:z 
+token: byr:2012
+	field: byr
+token: cid:161
+	field: cid
+token: eyr:2039
+	field: eyr
+token: ecl:gry
+	field: ecl
+token: hgt:61cm
+	field: hgt
+token: iyr:1949
+	field: iyr
+token: pid:870113802
+	field: pid
+token: hcl:z
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1961 eyr:2023 pid:353075198 iyr:2020 hcl:#888785 ecl:oth hgt:163cm 
+token: byr:1961
+	field: byr
+token: eyr:2023
+	field: eyr
+token: pid:353075198
+	field: pid
+token: iyr:2020
+	field: iyr
+token: hcl:#888785
+	field: hcl
+token: ecl:oth
+	field: ecl
+token: hgt:163cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:2001 iyr:2015 hgt:159cm hcl:#623a2f ecl:#3303fc pid:86352609 eyr:2030 
+token: byr:2001
+	field: byr
+token: iyr:2015
+	field: iyr
+token: hgt:159cm
+	field: hgt
+token: hcl:#623a2f
+	field: hcl
+token: ecl:#3303fc
+	field: ecl
+token: pid:86352609
+	field: pid
+token: eyr:2030
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:392475721 ecl:brn byr:1927 iyr:2014 eyr:2024 hcl:#fffffd 
+token: pid:392475721
+	field: pid
+token: ecl:brn
+	field: ecl
+token: byr:1927
+	field: byr
+token: iyr:2014
+	field: iyr
+token: eyr:2024
+	field: eyr
+token: hcl:#fffffd
+	field: hcl
+[1, 1, 1, 0, 1, 1, 1, 0]
+hgt:160cm eyr:2022 byr:1979 iyr:2010 pid:974489456 hcl:#efcc98 
+token: hgt:160cm
+	field: hgt
+token: eyr:2022
+	field: eyr
+token: byr:1979
+	field: byr
+token: iyr:2010
+	field: iyr
+token: pid:974489456
+	field: pid
+token: hcl:#efcc98
+	field: hcl
+[1, 1, 1, 1, 1, 0, 1, 0]
+ecl:grn eyr:2024 hgt:166cm byr:1961 pid:221051556 hcl:#6b5442 iyr:2028 
+token: ecl:grn
+	field: ecl
+token: eyr:2024
+	field: eyr
+token: hgt:166cm
+	field: hgt
+token: byr:1961
+	field: byr
+token: pid:221051556
+	field: pid
+token: hcl:#6b5442
+	field: hcl
+token: iyr:2028
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2010 cid:156 byr:2005 hgt:155cm ecl:amb eyr:1988 hcl:#866857 pid:169cm 
+token: iyr:2010
+	field: iyr
+token: cid:156
+	field: cid
+token: byr:2005
+	field: byr
+token: hgt:155cm
+	field: hgt
+token: ecl:amb
+	field: ecl
+token: eyr:1988
+	field: eyr
+token: hcl:#866857
+	field: hcl
+token: pid:169cm
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2038 byr:1991 pid:#9b82ce iyr:2027 hcl:z cid:278 hgt:59cm ecl:#179d81 
+token: eyr:2038
+	field: eyr
+token: byr:1991
+	field: byr
+token: pid:#9b82ce
+	field: pid
+token: iyr:2027
+	field: iyr
+token: hcl:z
+	field: hcl
+token: cid:278
+	field: cid
+token: hgt:59cm
+	field: hgt
+token: ecl:#179d81
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:blu hgt:151cm iyr:2013 cid:117 pid:129843687 hcl:#c429e7 byr:1961 eyr:2022 
+token: ecl:blu
+	field: ecl
+token: hgt:151cm
+	field: hgt
+token: iyr:2013
+	field: iyr
+token: cid:117
+	field: cid
+token: pid:129843687
+	field: pid
+token: hcl:#c429e7
+	field: hcl
+token: byr:1961
+	field: byr
+token: eyr:2022
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#602927 byr:1996 pid:507775673 eyr:2020 hgt:153cm ecl:oth cid:251 iyr:2010 
+token: hcl:#602927
+	field: hcl
+token: byr:1996
+	field: byr
+token: pid:507775673
+	field: pid
+token: eyr:2020
+	field: eyr
+token: hgt:153cm
+	field: hgt
+token: ecl:oth
+	field: ecl
+token: cid:251
+	field: cid
+token: iyr:2010
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:170cm ecl:oth iyr:2010 eyr:2025 hcl:#602927 byr:1983 pid:113809908 
+token: hgt:170cm
+	field: hgt
+token: ecl:oth
+	field: ecl
+token: iyr:2010
+	field: iyr
+token: eyr:2025
+	field: eyr
+token: hcl:#602927
+	field: hcl
+token: byr:1983
+	field: byr
+token: pid:113809908
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#c0946f pid:172142380 iyr:2017 byr:1926 hgt:190cm eyr:2028 ecl:brn 
+token: hcl:#c0946f
+	field: hcl
+token: pid:172142380
+	field: pid
+token: iyr:2017
+	field: iyr
+token: byr:1926
+	field: byr
+token: hgt:190cm
+	field: hgt
+token: eyr:2028
+	field: eyr
+token: ecl:brn
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:812443511 hcl:#6b5442 eyr:2021 ecl:amb cid:60 iyr:2017 hgt:157cm byr:1926 
+token: pid:812443511
+	field: pid
+token: hcl:#6b5442
+	field: hcl
+token: eyr:2021
+	field: eyr
+token: ecl:amb
+	field: ecl
+token: cid:60
+	field: cid
+token: iyr:2017
+	field: iyr
+token: hgt:157cm
+	field: hgt
+token: byr:1926
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:177cm ecl:gry eyr:2022 hcl:#888785 pid:570572334 byr:1943 iyr:2017 
+token: hgt:177cm
+	field: hgt
+token: ecl:gry
+	field: ecl
+token: eyr:2022
+	field: eyr
+token: hcl:#888785
+	field: hcl
+token: pid:570572334
+	field: pid
+token: byr:1943
+	field: byr
+token: iyr:2017
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:#967cbc hcl:z byr:2020 ecl:oth eyr:2035 iyr:2015 cid:99 hgt:65cm 
+token: pid:#967cbc
+	field: pid
+token: hcl:z
+	field: hcl
+token: byr:2020
+	field: byr
+token: ecl:oth
+	field: ecl
+token: eyr:2035
+	field: eyr
+token: iyr:2015
+	field: iyr
+token: cid:99
+	field: cid
+token: hgt:65cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2019 pid:285935311 hcl:#4c1ee4 byr:1954 eyr:2028 hgt:157cm 
+token: iyr:2019
+	field: iyr
+token: pid:285935311
+	field: pid
+token: hcl:#4c1ee4
+	field: hcl
+token: byr:1954
+	field: byr
+token: eyr:2028
+	field: eyr
+token: hgt:157cm
+	field: hgt
+[1, 1, 1, 1, 1, 0, 1, 0]
+ecl:xry eyr:1939 pid:192cm hgt:114 hcl:b97555 byr:2004 iyr:1970 
+token: ecl:xry
+	field: ecl
+token: eyr:1939
+	field: eyr
+token: pid:192cm
+	field: pid
+token: hgt:114
+	field: hgt
+token: hcl:b97555
+	field: hcl
+token: byr:2004
+	field: byr
+token: iyr:1970
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:grn byr:2021 iyr:2030 hcl:z pid:305489303 hgt:61cm eyr:2020 
+token: ecl:grn
+	field: ecl
+token: byr:2021
+	field: byr
+token: iyr:2030
+	field: iyr
+token: hcl:z
+	field: hcl
+token: pid:305489303
+	field: pid
+token: hgt:61cm
+	field: hgt
+token: eyr:2020
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2036 hgt:179cm pid:#8be5f5 byr:1981 hcl:#cb5848 iyr:2015 
+token: eyr:2036
+	field: eyr
+token: hgt:179cm
+	field: hgt
+token: pid:#8be5f5
+	field: pid
+token: byr:1981
+	field: byr
+token: hcl:#cb5848
+	field: hcl
+token: iyr:2015
+	field: iyr
+[1, 1, 1, 1, 1, 0, 1, 0]
+iyr:2011 ecl:oth hgt:176cm cid:344 pid:539941547 hcl:#efcc98 
+token: iyr:2011
+	field: iyr
+token: ecl:oth
+	field: ecl
+token: hgt:176cm
+	field: hgt
+token: cid:344
+	field: cid
+token: pid:539941547
+	field: pid
+token: hcl:#efcc98
+	field: hcl
+[0, 1, 0, 1, 1, 1, 1, 1]
+eyr:1987 ecl:amb byr:2029 pid:046017350 cid:182 iyr:2011 hcl:z hgt:191cm 
+token: eyr:1987
+	field: eyr
+token: ecl:amb
+	field: ecl
+token: byr:2029
+	field: byr
+token: pid:046017350
+	field: pid
+token: cid:182
+	field: cid
+token: iyr:2011
+	field: iyr
+token: hcl:z
+	field: hcl
+token: hgt:191cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2019 byr:1948 eyr:2020 ecl:hzl hgt:176cm hcl:#733820 pid:235101182 
+token: iyr:2019
+	field: iyr
+token: byr:1948
+	field: byr
+token: eyr:2020
+	field: eyr
+token: ecl:hzl
+	field: ecl
+token: hgt:176cm
+	field: hgt
+token: hcl:#733820
+	field: hcl
+token: pid:235101182
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:hzl eyr:2029 pid:262843012 hgt:76in hcl:#efcc98 iyr:2015 byr:1931 
+token: ecl:hzl
+	field: ecl
+token: eyr:2029
+	field: eyr
+token: pid:262843012
+	field: pid
+token: hgt:76in
+	field: hgt
+token: hcl:#efcc98
+	field: hcl
+token: iyr:2015
+	field: iyr
+token: byr:1931
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2011 ecl:blu hgt:184cm byr:1945 hcl:#c0946f pid:105042852 
+token: iyr:2011
+	field: iyr
+token: ecl:blu
+	field: ecl
+token: hgt:184cm
+	field: hgt
+token: byr:1945
+	field: byr
+token: hcl:#c0946f
+	field: hcl
+token: pid:105042852
+	field: pid
+[1, 1, 0, 1, 1, 1, 1, 0]
+iyr:2010 pid:485638522 hcl:949a37 eyr:2030 hgt:193cm ecl:gry byr:2021 
+token: iyr:2010
+	field: iyr
+token: pid:485638522
+	field: pid
+token: hcl:949a37
+	field: hcl
+token: eyr:2030
+	field: eyr
+token: hgt:193cm
+	field: hgt
+token: ecl:gry
+	field: ecl
+token: byr:2021
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:565896801 eyr:2029 hcl:#fffffd ecl:amb iyr:2016 byr:1977 hgt:170cm 
+token: pid:565896801
+	field: pid
+token: eyr:2029
+	field: eyr
+token: hcl:#fffffd
+	field: hcl
+token: ecl:amb
+	field: ecl
+token: iyr:2016
+	field: iyr
+token: byr:1977
+	field: byr
+token: hgt:170cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1987 hcl:#c0946f pid:931311386 iyr:2010 eyr:2022 
+token: byr:1987
+	field: byr
+token: hcl:#c0946f
+	field: hcl
+token: pid:931311386
+	field: pid
+token: iyr:2010
+	field: iyr
+token: eyr:2022
+	field: eyr
+[1, 1, 1, 0, 1, 0, 1, 0]
+eyr:2030 hgt:177cm hcl:#a97842 byr:1978 ecl:hzl pid:358177000 iyr:2014 
+token: eyr:2030
+	field: eyr
+token: hgt:177cm
+	field: hgt
+token: hcl:#a97842
+	field: hcl
+token: byr:1978
+	field: byr
+token: ecl:hzl
+	field: ecl
+token: pid:358177000
+	field: pid
+token: iyr:2014
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2025 pid:3639383157 cid:82 hcl:f2aec0 hgt:179cm eyr:1944 byr:1969 ecl:#e167d3 
+token: iyr:2025
+	field: iyr
+token: pid:3639383157
+	field: pid
+token: cid:82
+	field: cid
+token: hcl:f2aec0
+	field: hcl
+token: hgt:179cm
+	field: hgt
+token: eyr:1944
+	field: eyr
+token: byr:1969
+	field: byr
+token: ecl:#e167d3
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:107 ecl:gmt iyr:2030 hcl:#866857 byr:2026 eyr:1990 pid:#87773e 
+token: hgt:107
+	field: hgt
+token: ecl:gmt
+	field: ecl
+token: iyr:2030
+	field: iyr
+token: hcl:#866857
+	field: hcl
+token: byr:2026
+	field: byr
+token: eyr:1990
+	field: eyr
+token: pid:#87773e
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:220 hcl:z iyr:1921 hgt:65cm byr:1998 ecl:#34397f eyr:2035 
+token: cid:220
+	field: cid
+token: hcl:z
+	field: hcl
+token: iyr:1921
+	field: iyr
+token: hgt:65cm
+	field: hgt
+token: byr:1998
+	field: byr
+token: ecl:#34397f
+	field: ecl
+token: eyr:2035
+	field: eyr
+[1, 1, 1, 1, 1, 1, 0, 1]
+hcl:44e552 pid:#6f341e ecl:#59aeb1 eyr:1926 hgt:187 iyr:1988 byr:1991 
+token: hcl:44e552
+	field: hcl
+token: pid:#6f341e
+	field: pid
+token: ecl:#59aeb1
+	field: ecl
+token: eyr:1926
+	field: eyr
+token: hgt:187
+	field: hgt
+token: iyr:1988
+	field: iyr
+token: byr:1991
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:z hgt:70cm pid:653386115 iyr:1964 byr:2026 cid:103 ecl:#b81c45 eyr:2034 
+token: hcl:z
+	field: hcl
+token: hgt:70cm
+	field: hgt
+token: pid:653386115
+	field: pid
+token: iyr:1964
+	field: iyr
+token: byr:2026
+	field: byr
+token: cid:103
+	field: cid
+token: ecl:#b81c45
+	field: ecl
+token: eyr:2034
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#623a2f cid:307 pid:204266921 hgt:172cm iyr:2012 ecl:hzl eyr:2021 byr:1984 
+token: hcl:#623a2f
+	field: hcl
+token: cid:307
+	field: cid
+token: pid:204266921
+	field: pid
+token: hgt:172cm
+	field: hgt
+token: iyr:2012
+	field: iyr
+token: ecl:hzl
+	field: ecl
+token: eyr:2021
+	field: eyr
+token: byr:1984
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:192cm byr:1930 pid:39349843 hcl:#866857 iyr:2013 cid:130 ecl:blu eyr:1962 
+token: hgt:192cm
+	field: hgt
+token: byr:1930
+	field: byr
+token: pid:39349843
+	field: pid
+token: hcl:#866857
+	field: hcl
+token: iyr:2013
+	field: iyr
+token: cid:130
+	field: cid
+token: ecl:blu
+	field: ecl
+token: eyr:1962
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:97 eyr:2036 pid:#279c0b ecl:dne hgt:186in iyr:1973 hcl:691266 
+token: cid:97
+	field: cid
+token: eyr:2036
+	field: eyr
+token: pid:#279c0b
+	field: pid
+token: ecl:dne
+	field: ecl
+token: hgt:186in
+	field: hgt
+token: iyr:1973
+	field: iyr
+token: hcl:691266
+	field: hcl
+[0, 1, 1, 1, 1, 1, 1, 1]
+byr:2026 hgt:185cm hcl:z ecl:grt pid:#562f7a eyr:1986 iyr:2029 
+token: byr:2026
+	field: byr
+token: hgt:185cm
+	field: hgt
+token: hcl:z
+	field: hcl
+token: ecl:grt
+	field: ecl
+token: pid:#562f7a
+	field: pid
+token: eyr:1986
+	field: eyr
+token: iyr:2029
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:brn hcl:#b6652a eyr:2028 pid:570023672 byr:1988 hgt:162cm iyr:2015 
+token: ecl:brn
+	field: ecl
+token: hcl:#b6652a
+	field: hcl
+token: eyr:2028
+	field: eyr
+token: pid:570023672
+	field: pid
+token: byr:1988
+	field: byr
+token: hgt:162cm
+	field: hgt
+token: iyr:2015
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:180in ecl:zzz hcl:5b1477 byr:2024 eyr:2028 pid:#b03174 
+token: hgt:180in
+	field: hgt
+token: ecl:zzz
+	field: ecl
+token: hcl:5b1477
+	field: hcl
+token: byr:2024
+	field: byr
+token: eyr:2028
+	field: eyr
+token: pid:#b03174
+	field: pid
+[1, 0, 1, 1, 1, 1, 1, 0]
+pid:157cm eyr:1989 hgt:188cm iyr:2015 hcl:3362a9 ecl:gry byr:2027 
+token: pid:157cm
+	field: pid
+token: eyr:1989
+	field: eyr
+token: hgt:188cm
+	field: hgt
+token: iyr:2015
+	field: iyr
+token: hcl:3362a9
+	field: hcl
+token: ecl:gry
+	field: ecl
+token: byr:2027
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:111584950 byr:1941 ecl:grn iyr:2013 hgt:179cm hcl:#866857 eyr:2024 
+token: pid:111584950
+	field: pid
+token: byr:1941
+	field: byr
+token: ecl:grn
+	field: ecl
+token: iyr:2013
+	field: iyr
+token: hgt:179cm
+	field: hgt
+token: hcl:#866857
+	field: hcl
+token: eyr:2024
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:#7f4baa iyr:2015 hcl:de1367 eyr:2024 byr:1959 pid:#cf4e78 hgt:60cm 
+token: ecl:#7f4baa
+	field: ecl
+token: iyr:2015
+	field: iyr
+token: hcl:de1367
+	field: hcl
+token: eyr:2024
+	field: eyr
+token: byr:1959
+	field: byr
+token: pid:#cf4e78
+	field: pid
+token: hgt:60cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:2024 eyr:1953 pid:21579220 hgt:179 cid:94 hcl:#a97842 iyr:1977 ecl:xry 
+token: byr:2024
+	field: byr
+token: eyr:1953
+	field: eyr
+token: pid:21579220
+	field: pid
+token: hgt:179
+	field: hgt
+token: cid:94
+	field: cid
+token: hcl:#a97842
+	field: hcl
+token: iyr:1977
+	field: iyr
+token: ecl:xry
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:179cm eyr:2020 ecl:hzl hcl:#efcc98 pid:905622096 byr:1929 
+token: hgt:179cm
+	field: hgt
+token: eyr:2020
+	field: eyr
+token: ecl:hzl
+	field: ecl
+token: hcl:#efcc98
+	field: hcl
+token: pid:905622096
+	field: pid
+token: byr:1929
+	field: byr
+[1, 0, 1, 1, 1, 1, 1, 0]
+ecl:oth byr:2001 eyr:2008 iyr:2020 hcl:#ceb3a1 pid:244298637 hgt:160cm 
+token: ecl:oth
+	field: ecl
+token: byr:2001
+	field: byr
+token: eyr:2008
+	field: eyr
+token: iyr:2020
+	field: iyr
+token: hcl:#ceb3a1
+	field: hcl
+token: pid:244298637
+	field: pid
+token: hgt:160cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2030 byr:1972 hcl:#341e13 ecl:grn iyr:2014 pid:274475554 hgt:71in 
+token: eyr:2030
+	field: eyr
+token: byr:1972
+	field: byr
+token: hcl:#341e13
+	field: hcl
+token: ecl:grn
+	field: ecl
+token: iyr:2014
+	field: iyr
+token: pid:274475554
+	field: pid
+token: hgt:71in
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1938 hcl:z iyr:1956 pid:153cm hgt:62cm ecl:grt eyr:2036 
+token: byr:1938
+	field: byr
+token: hcl:z
+	field: hcl
+token: iyr:1956
+	field: iyr
+token: pid:153cm
+	field: pid
+token: hgt:62cm
+	field: hgt
+token: ecl:grt
+	field: ecl
+token: eyr:2036
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:177cm cid:276 iyr:1921 hcl:19aa96 pid:843799864 eyr:2033 ecl:#812d68 
+token: hgt:177cm
+	field: hgt
+token: cid:276
+	field: cid
+token: iyr:1921
+	field: iyr
+token: hcl:19aa96
+	field: hcl
+token: pid:843799864
+	field: pid
+token: eyr:2033
+	field: eyr
+token: ecl:#812d68
+	field: ecl
+[0, 1, 1, 1, 1, 1, 1, 1]
+pid:686496844 ecl:brn hcl:#733820 byr:1948 iyr:2010 eyr:2020 hgt:164cm 
+token: pid:686496844
+	field: pid
+token: ecl:brn
+	field: ecl
+token: hcl:#733820
+	field: hcl
+token: byr:1948
+	field: byr
+token: iyr:2010
+	field: iyr
+token: eyr:2020
+	field: eyr
+token: hgt:164cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:39436322 ecl:blu hcl:25b3d4 hgt:185in iyr:2019 byr:1959 eyr:2022 
+token: pid:39436322
+	field: pid
+token: ecl:blu
+	field: ecl
+token: hcl:25b3d4
+	field: hcl
+token: hgt:185in
+	field: hgt
+token: iyr:2019
+	field: iyr
+token: byr:1959
+	field: byr
+token: eyr:2022
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:119603708 hcl:#866857 byr:1983 hgt:157cm iyr:1978 ecl:hzl eyr:1945 
+token: pid:119603708
+	field: pid
+token: hcl:#866857
+	field: hcl
+token: byr:1983
+	field: byr
+token: hgt:157cm
+	field: hgt
+token: iyr:1978
+	field: iyr
+token: ecl:hzl
+	field: ecl
+token: eyr:1945
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:331 hcl:z iyr:2017 pid:255988517 byr:2015 eyr:2020 ecl:amb hgt:171 
+token: cid:331
+	field: cid
+token: hcl:z
+	field: hcl
+token: iyr:2017
+	field: iyr
+token: pid:255988517
+	field: pid
+token: byr:2015
+	field: byr
+token: eyr:2020
+	field: eyr
+token: ecl:amb
+	field: ecl
+token: hgt:171
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:180cm iyr:2013 ecl:brn hcl:#602927 byr:1943 pid:898265221 eyr:2025 
+token: hgt:180cm
+	field: hgt
+token: iyr:2013
+	field: iyr
+token: ecl:brn
+	field: ecl
+token: hcl:#602927
+	field: hcl
+token: byr:1943
+	field: byr
+token: pid:898265221
+	field: pid
+token: eyr:2025
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2024 hgt:163cm pid:892793767 byr:1971 ecl:oth iyr:2013 cid:119 hcl:#02f6b3 
+token: eyr:2024
+	field: eyr
+token: hgt:163cm
+	field: hgt
+token: pid:892793767
+	field: pid
+token: byr:1971
+	field: byr
+token: ecl:oth
+	field: ecl
+token: iyr:2013
+	field: iyr
+token: cid:119
+	field: cid
+token: hcl:#02f6b3
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+byr:1920 cid:221 pid:#7515a7 hgt:160in eyr:1921 iyr:1983 hcl:z 
+token: byr:1920
+	field: byr
+token: cid:221
+	field: cid
+token: pid:#7515a7
+	field: pid
+token: hgt:160in
+	field: hgt
+token: eyr:1921
+	field: eyr
+token: iyr:1983
+	field: iyr
+token: hcl:z
+	field: hcl
+[1, 1, 1, 1, 1, 0, 1, 1]
+byr:2029 hcl:z hgt:75cm eyr:1975 pid:184cm iyr:1992 ecl:dne 
+token: byr:2029
+	field: byr
+token: hcl:z
+	field: hcl
+token: hgt:75cm
+	field: hgt
+token: eyr:1975
+	field: eyr
+token: pid:184cm
+	field: pid
+token: iyr:1992
+	field: iyr
+token: ecl:dne
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:1990 hgt:174in eyr:1961 ecl:brn hcl:#a3313e byr:2029 
+token: iyr:1990
+	field: iyr
+token: hgt:174in
+	field: hgt
+token: eyr:1961
+	field: eyr
+token: ecl:brn
+	field: ecl
+token: hcl:#a3313e
+	field: hcl
+token: byr:2029
+	field: byr
+[1, 1, 1, 1, 1, 1, 0, 0]
+hgt:191cm eyr:2026 iyr:2019 ecl:brn byr:1930 hcl:#7d3b0c cid:174 
+token: hgt:191cm
+	field: hgt
+token: eyr:2026
+	field: eyr
+token: iyr:2019
+	field: iyr
+token: ecl:brn
+	field: ecl
+token: byr:1930
+	field: byr
+token: hcl:#7d3b0c
+	field: hcl
+token: cid:174
+	field: cid
+[1, 1, 1, 1, 1, 1, 0, 1]
+ecl:amb iyr:2015 hgt:163cm pid:664966673 hcl:#602927 eyr:2026 cid:229 byr:1941 
+token: ecl:amb
+	field: ecl
+token: iyr:2015
+	field: iyr
+token: hgt:163cm
+	field: hgt
+token: pid:664966673
+	field: pid
+token: hcl:#602927
+	field: hcl
+token: eyr:2026
+	field: eyr
+token: cid:229
+	field: cid
+token: byr:1941
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:3123244013 eyr:2037 iyr:2022 hcl:103dfa hgt:156cm byr:2027 ecl:gmt cid:195 
+token: pid:3123244013
+	field: pid
+token: eyr:2037
+	field: eyr
+token: iyr:2022
+	field: iyr
+token: hcl:103dfa
+	field: hcl
+token: hgt:156cm
+	field: hgt
+token: byr:2027
+	field: byr
+token: ecl:gmt
+	field: ecl
+token: cid:195
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+cid:151 ecl:blu pid:693382940 iyr:2011 byr:1954 hgt:170cm eyr:2030 hcl:#866857 
+token: cid:151
+	field: cid
+token: ecl:blu
+	field: ecl
+token: pid:693382940
+	field: pid
+token: iyr:2011
+	field: iyr
+token: byr:1954
+	field: byr
+token: hgt:170cm
+	field: hgt
+token: eyr:2030
+	field: eyr
+token: hcl:#866857
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#341e13 eyr:2023 byr:1948 iyr:2010 pid:607929427 ecl:oth hgt:160cm 
+token: hcl:#341e13
+	field: hcl
+token: eyr:2023
+	field: eyr
+token: byr:1948
+	field: byr
+token: iyr:2010
+	field: iyr
+token: pid:607929427
+	field: pid
+token: ecl:oth
+	field: ecl
+token: hgt:160cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+hcl:#c0946f ecl:brn hgt:189cm cid:116 iyr:2013 pid:277606931 byr:1975 
+token: hcl:#c0946f
+	field: hcl
+token: ecl:brn
+	field: ecl
+token: hgt:189cm
+	field: hgt
+token: cid:116
+	field: cid
+token: iyr:2013
+	field: iyr
+token: pid:277606931
+	field: pid
+token: byr:1975
+	field: byr
+[1, 1, 0, 1, 1, 1, 1, 1]
+eyr:2027 cid:206 ecl:gry iyr:2010 hcl:#866857 byr:1997 hgt:190cm pid:687577894 
+token: eyr:2027
+	field: eyr
+token: cid:206
+	field: cid
+token: ecl:gry
+	field: ecl
+token: iyr:2010
+	field: iyr
+token: hcl:#866857
+	field: hcl
+token: byr:1997
+	field: byr
+token: hgt:190cm
+	field: hgt
+token: pid:687577894
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2029 iyr:2015 pid:681485527 byr:1925 hgt:152cm ecl:amb hcl:#341e13 
+token: eyr:2029
+	field: eyr
+token: iyr:2015
+	field: iyr
+token: pid:681485527
+	field: pid
+token: byr:1925
+	field: byr
+token: hgt:152cm
+	field: hgt
+token: ecl:amb
+	field: ecl
+token: hcl:#341e13
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2030 hcl:#c396d9 hgt:159cm pid:686268817 ecl:brn byr:1983 iyr:2017 
+token: eyr:2030
+	field: eyr
+token: hcl:#c396d9
+	field: hcl
+token: hgt:159cm
+	field: hgt
+token: pid:686268817
+	field: pid
+token: ecl:brn
+	field: ecl
+token: byr:1983
+	field: byr
+token: iyr:2017
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+eyr:2038 byr:2012 cid:303 iyr:1941 hcl:z ecl:utc pid:203595168 hgt:71cm 
+token: eyr:2038
+	field: eyr
+token: byr:2012
+	field: byr
+token: cid:303
+	field: cid
+token: iyr:1941
+	field: iyr
+token: hcl:z
+	field: hcl
+token: ecl:utc
+	field: ecl
+token: pid:203595168
+	field: pid
+token: hgt:71cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:863355278 hcl:#888785 iyr:2018 byr:1953 eyr:2022 hgt:167cm ecl:amb 
+token: pid:863355278
+	field: pid
+token: hcl:#888785
+	field: hcl
+token: iyr:2018
+	field: iyr
+token: byr:1953
+	field: byr
+token: eyr:2022
+	field: eyr
+token: hgt:167cm
+	field: hgt
+token: ecl:amb
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:141244310 eyr:2025 hcl:#733820 ecl:amb hgt:154cm cid:61 iyr:2017 byr:1929 
+token: pid:141244310
+	field: pid
+token: eyr:2025
+	field: eyr
+token: hcl:#733820
+	field: hcl
+token: ecl:amb
+	field: ecl
+token: hgt:154cm
+	field: hgt
+token: cid:61
+	field: cid
+token: iyr:2017
+	field: iyr
+token: byr:1929
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+pid:361065637 hcl:#623a2f byr:1964 iyr:2015 eyr:2027 ecl:gry hgt:67in 
+token: pid:361065637
+	field: pid
+token: hcl:#623a2f
+	field: hcl
+token: byr:1964
+	field: byr
+token: iyr:2015
+	field: iyr
+token: eyr:2027
+	field: eyr
+token: ecl:gry
+	field: ecl
+token: hgt:67in
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:117 ecl:brn iyr:2025 byr:1982 hcl:#ceb3a1 hgt:185cm pid:34652522 
+token: cid:117
+	field: cid
+token: ecl:brn
+	field: ecl
+token: iyr:2025
+	field: iyr
+token: byr:1982
+	field: byr
+token: hcl:#ceb3a1
+	field: hcl
+token: hgt:185cm
+	field: hgt
+token: pid:34652522
+	field: pid
+[1, 1, 0, 1, 1, 1, 1, 1]
+cid:275 ecl:#7a4722 eyr:2001 byr:2018 iyr:1995 hgt:105 pid:95250112 hcl:z 
+token: cid:275
+	field: cid
+token: ecl:#7a4722
+	field: ecl
+token: eyr:2001
+	field: eyr
+token: byr:2018
+	field: byr
+token: iyr:1995
+	field: iyr
+token: hgt:105
+	field: hgt
+token: pid:95250112
+	field: pid
+token: hcl:z
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 1]
+iyr:2017 ecl:amb hgt:152cm hcl:#733820 cid:57 eyr:2020 pid:701621326 byr:1944 
+token: iyr:2017
+	field: iyr
+token: ecl:amb
+	field: ecl
+token: hgt:152cm
+	field: hgt
+token: hcl:#733820
+	field: hcl
+token: cid:57
+	field: cid
+token: eyr:2020
+	field: eyr
+token: pid:701621326
+	field: pid
+token: byr:1944
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#18171d ecl:brn iyr:2015 hgt:175cm eyr:2028 pid:311636591 cid:113 byr:1979 
+token: hcl:#18171d
+	field: hcl
+token: ecl:brn
+	field: ecl
+token: iyr:2015
+	field: iyr
+token: hgt:175cm
+	field: hgt
+token: eyr:2028
+	field: eyr
+token: pid:311636591
+	field: pid
+token: cid:113
+	field: cid
+token: byr:1979
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:grn hgt:185cm pid:920998407 iyr:2016 byr:1930 eyr:2029 hcl:#7d3b0c 
+token: ecl:grn
+	field: ecl
+token: hgt:185cm
+	field: hgt
+token: pid:920998407
+	field: pid
+token: iyr:2016
+	field: iyr
+token: byr:1930
+	field: byr
+token: eyr:2029
+	field: eyr
+token: hcl:#7d3b0c
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2021 eyr:1931 hcl:z byr:2010 hgt:177in pid:#cfb659 ecl:zzz 
+token: iyr:2021
+	field: iyr
+token: eyr:1931
+	field: eyr
+token: hcl:z
+	field: hcl
+token: byr:2010
+	field: byr
+token: hgt:177in
+	field: hgt
+token: pid:#cfb659
+	field: pid
+token: ecl:zzz
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:171 hcl:#888785 iyr:2010 byr:1970 ecl:hzl pid:141430645 hgt:160cm eyr:2026 
+token: cid:171
+	field: cid
+token: hcl:#888785
+	field: hcl
+token: iyr:2010
+	field: iyr
+token: byr:1970
+	field: byr
+token: ecl:hzl
+	field: ecl
+token: pid:141430645
+	field: pid
+token: hgt:160cm
+	field: hgt
+token: eyr:2026
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:172cm ecl:gry pid:428207256 cid:237 hcl:#733820 iyr:2012 eyr:2027 byr:1951 
+token: hgt:172cm
+	field: hgt
+token: ecl:gry
+	field: ecl
+token: pid:428207256
+	field: pid
+token: cid:237
+	field: cid
+token: hcl:#733820
+	field: hcl
+token: iyr:2012
+	field: iyr
+token: eyr:2027
+	field: eyr
+token: byr:1951
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:70cm cid:76 ecl:#c544c3 byr:2019 pid:6133497812 hcl:#efcc98 eyr:2037 iyr:2015 
+token: hgt:70cm
+	field: hgt
+token: cid:76
+	field: cid
+token: ecl:#c544c3
+	field: ecl
+token: byr:2019
+	field: byr
+token: pid:6133497812
+	field: pid
+token: hcl:#efcc98
+	field: hcl
+token: eyr:2037
+	field: eyr
+token: iyr:2015
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:176in pid:582383714 byr:1980 ecl:amb hcl:08097e iyr:2020 eyr:2021 
+token: hgt:176in
+	field: hgt
+token: pid:582383714
+	field: pid
+token: byr:1980
+	field: byr
+token: ecl:amb
+	field: ecl
+token: hcl:08097e
+	field: hcl
+token: iyr:2020
+	field: iyr
+token: eyr:2021
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:oth eyr:2024 hgt:176cm byr:1923 iyr:2014 pid:737058734 hcl:#b6652a cid:203 
+token: ecl:oth
+	field: ecl
+token: eyr:2024
+	field: eyr
+token: hgt:176cm
+	field: hgt
+token: byr:1923
+	field: byr
+token: iyr:2014
+	field: iyr
+token: pid:737058734
+	field: pid
+token: hcl:#b6652a
+	field: hcl
+token: cid:203
+	field: cid
+[1, 1, 1, 1, 1, 1, 1, 1]
+ecl:amb eyr:2029 hgt:186cm pid:440986981 iyr:2010 hcl:#cfa07d byr:1967 
+token: ecl:amb
+	field: ecl
+token: eyr:2029
+	field: eyr
+token: hgt:186cm
+	field: hgt
+token: pid:440986981
+	field: pid
+token: iyr:2010
+	field: iyr
+token: hcl:#cfa07d
+	field: hcl
+token: byr:1967
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+pid:8729818647 hcl:z ecl:#ae70eb cid:168 hgt:161cm iyr:2030 eyr:2020 byr:2022 
+token: pid:8729818647
+	field: pid
+token: hcl:z
+	field: hcl
+token: ecl:#ae70eb
+	field: ecl
+token: cid:168
+	field: cid
+token: hgt:161cm
+	field: hgt
+token: iyr:2030
+	field: iyr
+token: eyr:2020
+	field: eyr
+token: byr:2022
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#43a092 hgt:165cm byr:1961 pid:026098019 iyr:2019 eyr:2020 ecl:amb 
+token: hcl:#43a092
+	field: hcl
+token: hgt:165cm
+	field: hgt
+token: byr:1961
+	field: byr
+token: pid:026098019
+	field: pid
+token: iyr:2019
+	field: iyr
+token: eyr:2020
+	field: eyr
+token: ecl:amb
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 0]
+cid:154 hgt:192cm eyr:2016 iyr:2030 ecl:brn pid:#8e0762 byr:2020 
+token: cid:154
+	field: cid
+token: hgt:192cm
+	field: hgt
+token: eyr:2016
+	field: eyr
+token: iyr:2030
+	field: iyr
+token: ecl:brn
+	field: ecl
+token: pid:#8e0762
+	field: pid
+token: byr:2020
+	field: byr
+[1, 1, 1, 1, 0, 1, 1, 1]
+hgt:175cm ecl:brn byr:1944 pid:553456151 iyr:2016 eyr:2027 hcl:#085f41 
+token: hgt:175cm
+	field: hgt
+token: ecl:brn
+	field: ecl
+token: byr:1944
+	field: byr
+token: pid:553456151
+	field: pid
+token: iyr:2016
+	field: iyr
+token: eyr:2027
+	field: eyr
+token: hcl:#085f41
+	field: hcl
+[1, 1, 1, 1, 1, 1, 1, 0]
+ecl:gry byr:1975 eyr:2025 cid:122 pid:111078821 hcl:#b6652a iyr:2015 hgt:151cm 
+token: ecl:gry
+	field: ecl
+token: byr:1975
+	field: byr
+token: eyr:2025
+	field: eyr
+token: cid:122
+	field: cid
+token: pid:111078821
+	field: pid
+token: hcl:#b6652a
+	field: hcl
+token: iyr:2015
+	field: iyr
+token: hgt:151cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:159cm pid:946458516 eyr:2020 hcl:#a97842 byr:1972 iyr:2016 cid:88 ecl:oth 
+token: hgt:159cm
+	field: hgt
+token: pid:946458516
+	field: pid
+token: eyr:2020
+	field: eyr
+token: hcl:#a97842
+	field: hcl
+token: byr:1972
+	field: byr
+token: iyr:2016
+	field: iyr
+token: cid:88
+	field: cid
+token: ecl:oth
+	field: ecl
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2023 cid:156 byr:1999 hgt:186cm hcl:#fffffd pid:499141155 ecl:grn 
+token: eyr:2023
+	field: eyr
+token: cid:156
+	field: cid
+token: byr:1999
+	field: byr
+token: hgt:186cm
+	field: hgt
+token: hcl:#fffffd
+	field: hcl
+token: pid:499141155
+	field: pid
+token: ecl:grn
+	field: ecl
+[1, 0, 1, 1, 1, 1, 1, 1]
+hcl:#888785 hgt:165cm pid:864544116 ecl:gry byr:1937 iyr:2020 eyr:2026 
+token: hcl:#888785
+	field: hcl
+token: hgt:165cm
+	field: hgt
+token: pid:864544116
+	field: pid
+token: ecl:gry
+	field: ecl
+token: byr:1937
+	field: byr
+token: iyr:2020
+	field: iyr
+token: eyr:2026
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 0]
+hgt:155cm iyr:2018 ecl:blu hcl:#a97842 byr:1994 eyr:2024 
+token: hgt:155cm
+	field: hgt
+token: iyr:2018
+	field: iyr
+token: ecl:blu
+	field: ecl
+token: hcl:#a97842
+	field: hcl
+token: byr:1994
+	field: byr
+token: eyr:2024
+	field: eyr
+[1, 1, 1, 1, 1, 1, 0, 0]
+eyr:2021 iyr:2019 hgt:175cm cid:127 byr:1982 hcl:#888785 ecl:amb 
+token: eyr:2021
+	field: eyr
+token: iyr:2019
+	field: iyr
+token: hgt:175cm
+	field: hgt
+token: cid:127
+	field: cid
+token: byr:1982
+	field: byr
+token: hcl:#888785
+	field: hcl
+token: ecl:amb
+	field: ecl
+[1, 1, 1, 1, 1, 1, 0, 1]
+eyr:2022 iyr:2011 ecl:blu pid:202081532 hcl:z hgt:177in byr:1923 
+token: eyr:2022
+	field: eyr
+token: iyr:2011
+	field: iyr
+token: ecl:blu
+	field: ecl
+token: pid:202081532
+	field: pid
+token: hcl:z
+	field: hcl
+token: hgt:177in
+	field: hgt
+token: byr:1923
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 0]
+iyr:2017 cid:213 hcl:#fffffd ecl:hzl hgt:193cm pid:564823661 byr:1966 eyr:2030 
+token: iyr:2017
+	field: iyr
+token: cid:213
+	field: cid
+token: hcl:#fffffd
+	field: hcl
+token: ecl:hzl
+	field: ecl
+token: hgt:193cm
+	field: hgt
+token: pid:564823661
+	field: pid
+token: byr:1966
+	field: byr
+token: eyr:2030
+	field: eyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+hcl:#623a2f iyr:2014 hgt:177cm byr:1950 ecl:amb cid:290 eyr:2025 pid:669369557 
+token: hcl:#623a2f
+	field: hcl
+token: iyr:2014
+	field: iyr
+token: hgt:177cm
+	field: hgt
+token: byr:1950
+	field: byr
+token: ecl:amb
+	field: ecl
+token: cid:290
+	field: cid
+token: eyr:2025
+	field: eyr
+token: pid:669369557
+	field: pid
+[1, 1, 1, 1, 1, 1, 1, 1]
+hgt:67cm eyr:2028 ecl:brn hcl:411b18 pid:222472243 
+token: hgt:67cm
+	field: hgt
+token: eyr:2028
+	field: eyr
+token: ecl:brn
+	field: ecl
+token: hcl:411b18
+	field: hcl
+token: pid:222472243
+	field: pid
+[0, 0, 1, 1, 1, 1, 1, 0]
+byr:1981 ecl:gry hcl:#b6652a eyr:2033 iyr:1943 pid:832989613 hgt:167cm 
+token: byr:1981
+	field: byr
+token: ecl:gry
+	field: ecl
+token: hcl:#b6652a
+	field: hcl
+token: eyr:2033
+	field: eyr
+token: iyr:1943
+	field: iyr
+token: pid:832989613
+	field: pid
+token: hgt:167cm
+	field: hgt
+[1, 1, 1, 1, 1, 1, 1, 0]
+byr:1970 cid:172 hcl:#64fbcb eyr:2007 ecl:hzl pid:982450142 hgt:61cm iyr:2019 
+token: byr:1970
+	field: byr
+token: cid:172
+	field: cid
+token: hcl:#64fbcb
+	field: hcl
+token: eyr:2007
+	field: eyr
+token: ecl:hzl
+	field: ecl
+token: pid:982450142
+	field: pid
+token: hgt:61cm
+	field: hgt
+token: iyr:2019
+	field: iyr
+[1, 1, 1, 1, 1, 1, 1, 1]
+eyr:2025 hgt:161cm iyr:1962 pid:394421140 ecl:gry cid:209 hcl:#efcc98 byr:2001
+token: eyr:2025
+	field: eyr
+token: hgt:161cm
+	field: hgt
+token: iyr:1962
+	field: iyr
+token: pid:394421140
+	field: pid
+token: ecl:gry
+	field: ecl
+token: cid:209
+	field: cid
+token: hcl:#efcc98
+	field: hcl
+token: byr:2001
+	field: byr
+[1, 1, 1, 1, 1, 1, 1, 1]
+Num of valid passports: 233
+id passports: 232
