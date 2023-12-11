@@ -13,7 +13,7 @@ def main():
 
         for line in f:
 
-            data.append(line.strip())
+            data.append(list(line.strip()))
 
     result = solve(data)
 
