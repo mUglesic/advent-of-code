@@ -2,8 +2,6 @@
 import sys
 import time
 
-import numpy as np
-
 pipes = {
     "|": ((0, -1), (0, 1)),     # N-S
     "-": ((1, 0), (-1, 0)),     # E-W
@@ -13,51 +11,75 @@ pipes = {
     "F": ((0, 1), (1, 0)),      # S-E
 }
 
+mainPipe = []
+
 def findStart(grid):
 
-    for i, line in enumerate(grid):
-        for j, c in enumerate(line):
+    for y, line in enumerate(grid):
+        for x, c in enumerate(line):
             if c == "S":
-                return (i, j)
+                return (x, y)
             
 def findConnection(grid, start):
 
     x, y = start
 
-    # print(grid[x - 1][y], grid[x + 1][y], grid[x][y - 1], grid[x][y + 1])
+    # print(grid[y][x - 1], grid[y][x + 1], grid[y - 1][x], grid[y + 1][x])
 
-    if grid[x - 1][y] == "-" or grid[x - 1][y] == "L" or grid[x - 1][y] == "F":
+    if grid[y][x - 1] in "-LF":
         return (x - 1, y)
     
-    if grid[x + 1][y] == "-" or grid[x + 1][y] == "J" or grid[x + 1][y] == "7":
+    if grid[y][x + 1] in "-J7":
         return (x + 1, y)
     
-    if grid[x][y - 1] == "|" or grid[x][y - 1] == "7" or grid[x][y - 1] == "F":
+    if grid[y - 1][x] in "|7F":
         return (x, y - 1)
     
-    if grid[x][y + 1] == "|" or grid[x][y + 1] == "L" or grid[x][y + 1] == "J":
+    if grid[y + 1][x] in "|LJ":
         return (x, y + 1)
+    
+def findStartType(grid, start):
+
+    x, y = start
+
+    neighbors = set()
+
+    if grid[y][x - 1] in "-LF":
+        neighbors.add((-1, 0))
+    
+    if grid[y][x + 1] in "-J7":
+        neighbors.add((1, 0))
+    
+    if grid[y - 1][x] in "|7F":
+        neighbors.add((0, -1))
+    
+    if grid[y + 1][x] in "|LJ":
+        neighbors.add((0, 1))
+
+    for pipeType, pipeConnections in pipes.items():
+        if neighbors == set(pipeConnections):
+            return pipeType
 
 def solve(data):
 
-    grid = ["".join([data[j][i] for j in range(len(data))]) for i in range(len(data[0]))]
+    xCurrent, yCurrent = findStart(data)
 
-    # print(data, grid, sep="\n")
+    mainPipe.append((xCurrent, yCurrent))
 
-    xCurrent, yCurrent = findStart(grid)
-
-    xNext, yNext = findConnection(grid, (xCurrent, yCurrent))
+    xNext, yNext = findConnection(data, (xCurrent, yCurrent))
 
     xMove, yMove = (xNext - xCurrent, yNext - yCurrent)
 
     count = 1
 
-    while grid[xNext][yNext] != "S":
+    while data[yNext][xNext] != "S":
 
-        if (xMove * -1, yMove * -1) == pipes[grid[xNext][yNext]][0]:
-            xMove, yMove = pipes[grid[xNext][yNext]][1]
+        mainPipe.append((xNext, yNext))
+
+        if (xMove * -1, yMove * -1) == pipes[data[yNext][xNext]][0]:
+            xMove, yMove = pipes[data[yNext][xNext]][1]
         else:
-            xMove, yMove = pipes[grid[xNext][yNext]][0]
+            xMove, yMove = pipes[data[yNext][xNext]][0]
 
         xCurrent, yCurrent = xNext, yNext
 
@@ -66,7 +88,38 @@ def solve(data):
 
         count += 1
 
-    return int(count / 2)   
+    return int(count / 2)
+
+def solve2(data):
+
+    xCurrent, yCurrent = findStart(data)
+
+    data[yCurrent][xCurrent] = findStartType(data, (xCurrent, yCurrent))
+
+    count = 0
+
+    for y, line in enumerate(data):
+
+        inside = False
+        lastTurn = None
+
+        for x, tile in enumerate(line):
+
+            inMainPipe = (x, y) in mainPipe
+
+            if inside:
+                inside = not inMainPipe or not (tile == '|' or (lastTurn == "L" and tile == "7") or (lastTurn == "F" and tile == "J"))
+            else:
+                inside = inMainPipe and (tile == '|' or (lastTurn == "L" and tile == "7") or (lastTurn == "F" and tile == "J"))
+
+            if inMainPipe and tile in "LJ7F":
+                lastTurn = tile
+
+            if inside and not inMainPipe:
+                count += 1
+
+    return count
+
 
 def main():
 
@@ -76,11 +129,12 @@ def main():
 
         for line in f:
 
-            data.append(line.strip())
+            data.append(list(line.strip()))
 
     result = solve(data)
+    result2 = solve2(data)
 
-    print(result)
+    print(result, result2)
 
 
 ###########################
